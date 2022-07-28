@@ -1,0 +1,529 @@
+first_name,points_per_game,second_name,selected_by_percent,team,total_points,value_season,web_name,minutes,goals_scored,assists,clean_sheets,goals_conceded,saves,bonus,bps,influence,creativity,threat,ict_index,influence_rank,creativity_rank,threat_rank,ict_index_rank,position,price,G+A,price_range,ownership
+Bernd,2.5,Leno,0.6,ARS,10,2.2,Leno,360,0,0,1,9,10,0,69,85.0,0.0,0.0,8.5,321,410,396,345,Goalkeeper,4.5,0,Budget,Differential
+Aaron,4.0,Ramsdale,10.4,ARS,135,27.0,Ramsdale,3060,0,0,12,39,90,14,641,690.2,1.0,0.0,69.0,52,357,486,217,Goalkeeper,5.0,0,Mid,Differential
+Matt,0.0,Turner,1.0,ARS,0,0.0,Turner,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,401,392,376,403,Goalkeeper,4.0,0,Budget,Differential
+Emiliano,3.6,Martínez Romero,4.8,AVL,129,25.8,Martínez,3240,0,0,11,48,95,7,651,755.8,0.0,0.0,75.4,30,474,469,200,Goalkeeper,5.0,0,Mid,Differential
+Robin,1.0,Olsen,3.0,AVL,1,0.2,Olsen,90,0,0,0,3,2,0,14,18.8,0.0,0.0,1.9,363,378,360,375,Goalkeeper,4.0,0,Budget,Differential
+Mark,0.0,Travers,0.4,BOU,0,0.0,Travers,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,447,444,435,450,Goalkeeper,4.5,0,Budget,Differential
+Will,0.0,Dennis,1.0,BOU,0,0.0,Dennis,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,406,398,382,409,Goalkeeper,4.0,0,Budget,Differential
+David,4.0,Raya Martin,11.3,BRE,95,21.1,Raya,2160,0,0,8,27,78,5,496,593.4,10.0,0.0,60.1,77,339,411,233,Goalkeeper,4.5,0,Budget,Differential
+Ellery,0.0,Balcombe,1.9,BRE,0,0.0,Balcombe,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,402,394,378,405,Goalkeeper,4.0,0,Budget,Differential
+Thomas,0.0,Strakosha,0.2,BRE,0,0.0,Strakosha,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,424,421,408,427,Goalkeeper,4.5,0,Budget,Differential
+Jason,2.0,Steele,2.1,BHA,2,0.5,Steele,90,0,0,0,2,3,0,17,28.8,0.0,0.0,2.9,354,371,351,366,Goalkeeper,4.0,0,Budget,Differential
+Robert,3.4,Sánchez,13.9,BHA,126,28.0,Sánchez,3330,0,0,11,42,101,8,679,811.0,30.0,0.0,84.0,20,307,429,176,Goalkeeper,4.5,0,Budget,Differential
+Kepa,4.8,Arrizabalaga,0.3,CHE,19,4.2,Arrizabalaga,360,0,0,2,2,11,1,89,95.6,0.0,0.0,9.6,313,419,405,338,Goalkeeper,4.5,0,Budget,Differential
+Edouard,3.8,Mendy,23.9,CHE,130,26.0,Mendy,3060,0,0,14,31,73,3,573,585.8,0.0,0.0,58.2,84,491,488,239,Goalkeeper,5.0,0,Mid,High
+Vicente,4.0,Guaita,1.8,CRY,119,26.4,Guaita,2655,0,0,11,33,83,11,567,614.6,0.0,0.0,61.4,68,404,388,230,Goalkeeper,4.5,0,Budget,Differential
+Jack,3.3,Butland,0.4,CRY,30,6.7,Butland,765,0,0,1,13,17,3,132,155.0,0.0,0.0,15.7,291,417,403,325,Goalkeeper,4.5,0,Budget,Differential
+Sam,0.0,Johnstone,0.4,CRY,0,0.0,Johnstone,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,420,415,401,423,Goalkeeper,4.5,0,Budget,Differential
+Remi,0.0,Matthews,0.3,CRY,0,0.0,Matthews,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,392,381,363,394,Goalkeeper,4.0,0,Budget,Differential
+Asmir,4.3,Begović,1.9,EVE,13,3.2,Begović,270,0,0,1,8,11,3,61,81.8,0.0,0.0,8.2,323,369,349,346,Goalkeeper,4.0,0,Budget,Differential
+Jordan,3.3,Pickford,5.8,EVE,116,25.8,Pickford,3150,0,0,7,58,117,12,624,863.2,43.0,0.0,90.5,15,290,406,166,Goalkeeper,4.5,0,Budget,Differential
+Paulo,0.0,Gazzaniga Farias,12.4,FUL,0,0.0,Gazzaniga,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,389,376,357,391,Goalkeeper,4.0,0,Budget,Differential
+Marek,0.0,Rodák,0.3,FUL,0,0.0,Rodák,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,427,424,412,430,Goalkeeper,4.5,0,Budget,Differential
+Kasper,3.5,Schmeichel,2.1,LEI,131,26.2,Schmeichel,3330,0,0,7,58,131,12,706,1076.6,11.2,0.0,109.1,4,335,462,122,Goalkeeper,5.0,0,Mid,Differential
+Danny,3.0,Ward,2.4,LEI,3,0.8,Ward,90,0,0,0,1,4,0,17,32.4,0.0,0.0,3.2,350,375,356,363,Goalkeeper,4.0,0,Budget,Differential
+Kristoffer,2.0,Klaesson,0.8,LEE,2,0.5,Klaesson,35,0,0,0,0,4,0,12,25.4,0.0,0.0,2.5,355,391,375,368,Goalkeeper,4.0,0,Budget,Differential
+Illan,2.8,Meslier,3.2,LEE,106,23.6,Meslier,3384,0,0,5,79,143,8,713,1090.6,0.0,0.0,108.9,3,450,442,123,Goalkeeper,4.5,0,Budget,Differential
+Alisson,4.9,Ramses Becker,19.3,LIV,176,32.0,Alisson,3240,0,1,20,24,75,15,782,721.4,10.0,0.0,73.1,41,340,504,207,Goalkeeper,5.5,1,Mid,High
+Caoimhin,4.0,Kelleher,0.8,LIV,8,2.0,Kelleher,180,0,0,1,2,6,0,52,46.2,0.0,0.0,4.6,339,385,368,358,Goalkeeper,4.0,0,Budget,Differential
+Adrián,0.0,San Miguel del Castillo,0.4,LIV,0,0.0,Adrián,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,387,373,353,389,Goalkeeper,4.0,0,Budget,Differential
+Ederson,4.2,Santana de Moraes,15.1,MCI,155,28.2,Ederson,3330,0,0,20,26,60,4,701,561.2,0.0,0.0,56.1,93,506,505,243,Goalkeeper,5.5,0,Mid,High
+Zack,7.0,Steffen,0.2,MCI,7,1.8,Steffen,90,0,0,1,0,2,1,29,23.0,0.0,0.0,2.3,357,380,362,370,Goalkeeper,4.0,0,Budget,Differential
+Stefan,0.0,Ortega Moreno,0.7,MCI,0,0.0,Ortega,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,388,374,355,390,Goalkeeper,4.0,0,Budget,Differential
+Scott,0.0,Carson,0.2,MCI,0,0.0,Carson,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,385,366,345,387,Goalkeeper,4.0,0,Budget,Differential
+David,3.5,De Gea Quintana,7.1,MUN,132,26.4,De Gea,3420,0,0,8,57,127,7,667,965.8,0.3,0.0,96.1,8,364,464,150,Goalkeeper,5.0,0,Mid,Differential
+Tom,0.0,Heaton,0.6,MUN,0,0.0,Heaton,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,386,368,348,388,Goalkeeper,4.0,0,Budget,Differential
+Karl,2.5,Darlow,4.2,NEW,20,5.0,Darlow,720,0,0,0,15,24,3,110,157.0,0.0,0.0,15.8,288,372,352,324,Goalkeeper,4.0,0,Budget,Differential
+Martin,3.7,Dubravka,1.5,NEW,96,21.3,Dubravka,2340,0,0,8,35,73,9,465,590.8,20.0,0.0,61.1,79,318,395,231,Goalkeeper,4.5,0,Budget,Differential
+Nick,3.6,Pope,4.9,NEW,130,26.0,Pope,3240,0,0,9,47,120,12,683,902.8,20.0,0.0,92.4,12,319,468,160,Goalkeeper,5.0,0,Mid,Differential
+Brice,0.0,Samba,0.0,NFO,0,0.0,Samba,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,421,416,402,424,Goalkeeper,4.5,0,Budget,Differential
+Dean,0.0,Henderson,6.8,NFO,0,0.0,Henderson,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,436,433,422,439,Goalkeeper,4.5,0,Budget,Differential
+Wayne,2.0,Hennessey,2.1,NFO,4,1.0,Hennessey,180,0,0,0,6,8,0,37,62.8,30.0,0.0,9.3,329,306,346,340,Goalkeeper,4.0,0,Budget,Differential
+Alex,3.2,McCarthy,0.4,SOU,55,12.2,McCarthy,1530,0,0,5,27,44,3,286,334.4,10.0,0.0,34.5,193,338,393,284,Goalkeeper,4.5,0,Budget,Differential
+Mateusz,0.0,Lis,0.5,SOU,0,0.0,Lis,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,395,384,367,397,Goalkeeper,4.0,0,Budget,Differential
+Gavin,0.0,Bazunu,1.1,SOU,0,0.0,Bazunu,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,461,457,449,463,Goalkeeper,4.5,0,Budget,Differential
+Willy,1.0,Caballero,1.9,SOU,2,0.5,Caballero,180,0,0,0,5,6,0,23,53.2,0.0,0.0,5.4,334,367,347,355,Goalkeeper,4.0,0,Budget,Differential
+Hugo,4.2,Lloris,4.7,TOT,158,28.7,Lloris,3420,0,0,16,40,97,11,703,746.2,23.0,0.0,76.9,33,313,498,193,Goalkeeper,5.5,0,Mid,Differential
+Fraser,3.0,Forster,9.9,TOT,57,14.2,Forster,1710,0,0,3,35,68,6,330,559.8,0.0,0.0,56.2,96,370,350,242,Goalkeeper,4.0,0,Budget,Differential
+Brandon,0.0,Austin,0.3,TOT,0,0.0,Austin,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,398,388,372,400,Goalkeeper,4.0,0,Budget,Differential
+Lukasz,3.7,Fabianski,1.2,WHU,136,27.2,Fabianski,3330,0,0,8,50,114,9,661,918.6,0.0,0.0,91.8,10,470,463,164,Goalkeeper,5.0,0,Mid,Differential
+Alphonse,2.0,Areola,1.5,WHU,2,0.4,Areola,90,0,0,0,1,2,0,11,20.4,0.0,0.0,2.0,361,412,398,374,Goalkeeper,4.5,0,Budget,Differential
+José,3.9,Malheiro de Sá,4.7,WOL,146,29.2,Sá,3285,0,1,11,40,121,11,722,947.0,30.0,0.0,97.5,9,308,471,144,Goalkeeper,5.0,1,Mid,Differential
+Matija,0.0,Šarkić,3.1,WOL,0,0.0,Šarkić,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,399,389,373,401,Goalkeeper,4.0,0,Budget,Differential
+Cédric,2.3,Alves Soares,0.3,ARS,48,10.7,Cédric,1481,1,1,3,27,0,3,292,318.4,327.1,111.0,75.8,204,113,238,198,Defender,4.5,2,Budget,Differential
+Rob,1.9,Holding,0.2,ARS,29,6.4,Holding,840,1,0,2,16,0,2,152,253.0,8.6,49.0,31.1,232,341,291,294,Defender,4.5,1,Budget,Differential
+Kieran,4.8,Tierney,3.3,ARS,106,21.2,Tierney,1916,1,3,11,21,0,11,454,365.2,335.9,198.0,90.1,178,107,183,169,Defender,5.0,4,Mid,Differential
+Benjamin,3.3,White,7.9,ARS,107,23.8,White,2880,0,0,13,35,0,9,557,592.8,182.3,150.0,92.5,78,177,205,159,Defender,4.5,0,Budget,Differential
+Takehiro,3.6,Tomiyasu,11.2,ARS,75,16.7,Tomiyasu,1680,0,1,9,20,0,5,344,312.4,240.9,110.0,66.4,206,149,241,223,Defender,4.5,1,Budget,Differential
+Gabriel,4.2,dos Santos Magalhães,8.4,ARS,146,29.2,Gabriel,3063,5,0,13,38,0,16,682,746.8,131.6,470.0,134.7,32,215,74,72,Defender,5.0,5,Mid,Differential
+Nuno,2.2,Varela Tavares,0.2,ARS,49,10.9,Tavares,1169,1,1,3,19,0,2,199,201.0,188.2,221.0,61.1,258,175,164,232,Defender,4.5,2,Budget,Differential
+Pablo,0.5,Marí Villar,0.1,ARS,1,0.2,Pablo Marí,180,0,0,0,4,0,0,35,55.4,12.3,11.0,7.9,332,332,320,348,Defender,4.5,0,Budget,Differential
+William,0.0,Saliba,1.2,ARS,0,0.0,Saliba,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,462,458,450,464,Defender,4.5,0,Budget,Differential
+Oleksandr,3.9,Zinchenko,8.6,ARS,59,11.8,Zinchenko,1044,0,4,5,9,0,4,284,259.4,282.1,111.0,65.4,227,130,240,226,Defender,5.0,4,Mid,Differential
+Calum,3.2,Chambers,0.3,AVL,42,9.3,Chambers,999,1,0,4,16,0,2,198,250.6,53.1,63.0,36.7,233,280,280,280,Defender,4.5,1,Budget,Differential
+Lucas,2.9,Digne,3.8,AVL,83,16.6,Digne,2440,0,4,7,42,0,8,459,538.8,772.7,202.0,151.6,101,16,177,59,Defender,5.0,4,Mid,Differential
+Kortney,2.9,Hause,0.1,AVL,20,4.4,Hause,397,1,0,1,9,0,3,89,102.8,5.9,64.0,17.3,311,344,279,321,Defender,4.5,1,Budget,Differential
+Tyrone,3.3,Mings,7.2,AVL,118,26.2,Mings,3188,1,4,11,49,0,12,596,667.2,130.9,309.0,110.6,56,217,123,116,Defender,4.5,5,Budget,Differential
+Matty,3.9,Cash,20.7,AVL,147,29.4,Cash,3377,4,3,13,50,0,11,623,754.8,432.1,534.0,172.1,31,78,60,46,Defender,5.0,7,Mid,High
+Ezri,2.7,Konsa Ngoyo,0.1,AVL,78,17.3,Konsa,2477,2,0,8,43,0,4,388,428.2,56.5,251.0,73.4,145,278,152,205,Defender,4.5,2,Budget,Differential
+Diego Carlos,0.0,Santos Silva,1.3,AVL,0,0.0,Diego Carlos,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,481,480,476,482,Defender,5.0,0,Mid,Differential
+Frédéric,0.0,Guilbert,0.8,AVL,0,0.0,Guilbert,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,396,386,369,398,Defender,4.0,0,Budget,Differential
+Ludwig,0.0,Augustinsson,0.0,AVL,0,0.0,Augustinsson,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,428,425,413,431,Defender,4.5,0,Budget,Differential
+Adam,0.0,Smith,0.2,BOU,0,0.0,Smith,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,413,406,390,416,Defender,4.5,0,Budget,Differential
+Ryan,1.0,Fredericks,0.2,BOU,7,1.6,Fredericks,303,0,0,0,6,0,0,38,29.6,31.6,4.0,6.6,353,303,330,350,Defender,4.5,0,Budget,Differential
+Jack,0.0,Stacey,0.1,BOU,0,0.0,Stacey,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,426,423,410,429,Defender,4.5,0,Budget,Differential
+Chris,0.0,Mepham,0.1,BOU,0,0.0,Mepham,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,446,443,434,449,Defender,4.5,0,Budget,Differential
+Lloyd,0.0,Kelly,0.1,BOU,0,0.0,Kelly,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,449,446,437,452,Defender,4.5,0,Budget,Differential
+Jordan,0.0,Zemura,0.2,BOU,0,0.0,Zemura,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,457,453,445,459,Defender,4.5,0,Budget,Differential
+Pontus,3.3,Jansson,2.9,BRE,122,27.1,Jansson,3321,3,4,8,56,0,13,616,782.0,67.2,476.0,133.0,24,263,73,75,Defender,4.5,7,Budget,Differential
+Sergi,2.6,Canós Tenés,0.0,BRE,81,16.2,Canós,2077,3,3,8,36,0,5,268,386.4,283.6,439.0,111.0,171,128,86,115,Defender,5.0,6,Mid,Differential
+Kristoffer,3.4,Ajer,0.1,BRE,81,18.0,Ajer,1995,1,3,8,32,0,5,384,390.0,124.2,184.0,70.0,169,221,190,214,Defender,4.5,4,Budget,Differential
+Rico,3.2,Henry,0.7,BRE,108,24.0,Henry,2775,3,0,9,41,0,4,453,451.0,325.4,235.0,101.0,135,115,158,137,Defender,4.5,3,Budget,Differential
+Mads,2.0,Roerslev Rasmussen,0.1,BRE,41,9.1,Roerslev,1232,1,1,1,27,0,4,170,200.2,125.8,81.0,40.8,259,220,263,272,Defender,4.5,2,Budget,Differential
+Mads,2.0,Bech Sørensen,0.1,BRE,22,4.9,Bech,833,0,0,2,14,0,1,139,127.6,89.7,44.0,26.1,303,245,294,306,Defender,4.5,0,Budget,Differential
+Ethan,2.8,Pinnock,0.2,BRE,90,20.0,Pinnock,2694,1,1,7,43,0,7,517,648.8,151.7,335.0,113.5,61,197,111,109,Defender,4.5,2,Budget,Differential
+Charlie,1.7,Goode,0.6,BRE,10,2.5,Goode,448,0,0,1,6,0,0,64,54.8,82.7,24.0,16.0,333,252,307,323,Defender,4.0,0,Budget,Differential
+Dominic,1.5,Thompson,0.4,BRE,3,0.8,Thompson,146,0,0,0,3,0,0,12,15.8,1.2,6.0,2.3,367,355,327,371,Defender,4.0,0,Budget,Differential
+Aaron,0.0,Hickey,0.3,BRE,0,0.0,Hickey,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,498,498,495,499,Defender,5.0,0,Mid,Differential
+Ben,3.5,Mee,0.2,BRE,74,16.4,Mee,1839,3,0,6,25,0,3,325,463.8,63.4,238.0,76.6,126,270,155,194,Defender,4.5,3,Budget,Differential
+Shane,2.7,Duffy,0.3,BHA,48,10.7,Duffy,1434,1,1,4,19,0,3,288,380.6,58.2,282.0,72.2,172,275,137,210,Defender,4.5,2,Budget,Differential
+Lewis,3.2,Dunk,1.8,BHA,92,20.4,Dunk,2573,1,0,10,33,0,7,537,570.0,63.5,327.0,96.1,91,269,113,149,Defender,4.5,1,Budget,Differential
+Adam,2.7,Webster,0.1,BHA,59,13.1,Webster,1429,2,0,4,20,0,6,266,416.8,51.4,120.0,58.9,152,281,230,237,Defender,4.5,2,Budget,Differential
+Joël,2.8,Veltman,0.4,BHA,95,21.1,Veltman,2874,1,1,8,39,0,5,545,582.2,275.8,183.0,104.4,85,132,192,127,Defender,4.5,2,Budget,Differential
+Marc,3.6,Cucurella Saseta,9.2,BHA,126,25.2,Cucurella,3089,1,1,11,39,0,21,673,679.8,700.8,207.0,159.1,53,23,175,53,Defender,5.0,2,Mid,Differential
+Tariq,2.5,Lamptey,3.0,BHA,74,16.4,Lamptey,1547,0,2,6,21,0,7,308,254.6,367.9,175.0,79.4,229,100,196,188,Defender,4.5,2,Budget,Differential
+Haydon,0.0,Roberts,0.1,BHA,0,0.0,Roberts,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,404,396,380,407,Defender,4.0,0,Budget,Differential
+César,3.2,Azpilicueta,1.0,CHE,87,17.4,Azpilicueta,2067,1,3,7,23,0,2,453,476.4,310.0,212.0,100.0,119,118,171,140,Defender,5.0,4,Mid,Differential
+Thiago,4.1,Emiliano da Silva,6.8,CHE,130,23.6,Thiago Silva,2649,3,1,11,28,0,14,667,829.4,133.9,229.0,119.4,16,211,161,99,Defender,5.5,4,Mid,Differential
+Marcos,4.6,Alonso,4.5,CHE,128,23.3,Alonso,2164,4,5,9,22,0,14,528,560.2,677.3,566.0,180.6,95,24,57,39,Defender,5.5,9,Mid,Differential
+Robert Kenedy,4.0,Nunes do Nascimento,0.4,CHE,4,1.0,Kenedy,58,0,1,0,0,0,0,19,30.6,25.0,24.0,8.0,351,311,306,347,Defender,4.0,1,Budget,Differential
+Ben,7.9,Chilwell,8.5,CHE,55,9.2,Chilwell,541,3,1,4,2,0,5,161,175.8,161.1,202.0,54.0,274,192,178,249,Defender,6.0,4,Premium,Differential
+Trevoh,5.0,Chalobah,0.8,CHE,99,19.8,Chalobah,1447,3,1,9,9,0,11,396,405.8,105.8,151.0,66.1,160,235,204,224,Defender,5.0,4,Mid,Differential
+Malang,3.8,Sarr,0.2,CHE,30,6.0,Sarr,544,0,0,4,7,0,4,141,118.4,60.4,1.0,17.9,307,272,344,320,Defender,5.0,0,Mid,Differential
+Reece,5.4,James,41.3,CHE,141,23.5,James,1863,5,9,7,22,0,26,573,605.2,733.4,440.0,178.0,73,17,85,41,Defender,6.0,14,Premium,High
+Ethan,0.0,Ampadu,0.1,CHE,0,0.0,Ampadu,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,439,436,426,442,Defender,4.5,0,Budget,Differential
+Kalidou,0.0,Koulibaly,5.4,CHE,0,0.0,Koulibaly,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,502,502,500,503,Defender,5.5,0,Mid,Differential
+James,2.1,Tomkins,2.4,CRY,17,4.2,Tomkins,545,1,0,0,11,0,2,97,140.4,22.0,88.0,25.1,297,314,259,309,Defender,4.0,1,Budget,Differential
+Joel,2.6,Ward,0.2,CRY,73,16.2,Ward,2486,0,0,9,37,0,2,422,455.8,132.5,64.0,65.4,133,214,277,225,Defender,4.5,0,Budget,Differential
+Nathaniel,3.7,Clyne,0.2,CRY,59,13.1,Clyne,1351,0,1,6,12,0,4,264,181.0,99.1,17.0,29.9,270,238,315,298,Defender,4.5,1,Budget,Differential
+Joachim,3.6,Andersen,2.7,CRY,124,27.6,Andersen,2914,0,4,12,37,0,14,619,630.6,234.0,142.0,100.7,62,152,211,138,Defender,4.5,4,Budget,Differential
+Marc,3.4,Guéhi,2.6,CRY,123,27.3,Guéhi,3222,2,1,11,43,0,8,676,720.6,98.5,290.0,111.1,42,241,132,113,Defender,4.5,3,Budget,Differential
+Tyrick,3.0,Mitchell,1.2,CRY,109,24.2,Mitchell,3101,0,2,10,43,0,6,561,619.2,380.5,111.0,111.1,65,95,239,114,Defender,4.5,2,Budget,Differential
+Nathan,1.0,Ferguson,0.4,CRY,1,0.2,Ferguson,8,0,0,0,0,0,0,3,0.2,0.0,0.0,0.0,384,393,377,404,Defender,4.0,0,Budget,Differential
+Seamus,2.6,Coleman,0.1,EVE,79,17.6,Coleman,2656,1,1,7,50,0,6,439,469.4,232.1,170.0,86.9,123,153,201,173,Defender,4.5,2,Budget,Differential
+Michael,3.2,Keane,0.8,EVE,102,22.7,Keane,2791,3,2,8,54,0,11,518,697.0,97.0,231.0,102.7,50,242,160,132,Defender,4.5,5,Budget,Differential
+Yerry,1.8,Mina,0.2,EVE,24,5.3,Mina,844,0,0,2,10,0,0,133,164.8,18.2,66.0,24.6,280,321,273,311,Defender,4.5,0,Budget,Differential
+Mason,2.5,Holgate,0.2,EVE,62,13.8,Holgate,2133,2,2,5,42,0,2,312,431.2,42.1,120.0,59.3,142,292,231,236,Defender,4.5,4,Budget,Differential
+Ben,2.0,Godfrey,0.2,EVE,45,10.0,Godfrey,2029,0,0,4,39,0,1,318,416.0,164.6,222.0,80.5,153,190,163,185,Defender,4.5,0,Budget,Differential
+Vitalii,3.2,Mykolenko,0.4,EVE,42,9.3,Mykolenko,1054,1,1,3,17,0,3,177,187.4,138.8,66.0,39.4,268,208,275,275,Defender,4.5,2,Budget,Differential
+Jarrad,1.2,Branthwaite,0.2,EVE,7,1.8,Branthwaite,387,1,0,0,17,0,1,49,90.2,2.8,44.0,13.8,316,347,292,331,Defender,4.0,1,Budget,Differential
+Nathan,0.0,Patterson,1.7,EVE,0,0.0,Patterson,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,403,395,379,406,Defender,4.0,0,Budget,Differential
+Niels,0.0,Nkounkou,0.5,EVE,0,0.0,Nkounkou,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,410,402,386,413,Defender,4.0,0,Budget,Differential
+James,2.4,Tarkowski,1.0,EVE,83,18.4,Tarkowski,3106,1,2,7,51,0,5,486,892.6,118.1,315.0,132.8,13,225,120,76,Defender,4.5,3,Budget,Differential
+Tim,0.0,Ream,0.1,FUL,0,0.0,Ream,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,417,411,397,420,Defender,4.5,0,Budget,Differential
+Joe,0.0,Bryan,0.1,FUL,0,0.0,Bryan,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,419,414,400,422,Defender,4.5,0,Budget,Differential
+Terence,0.0,Kongolo,0.8,FUL,0,0.0,Kongolo,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,390,377,359,392,Defender,4.0,0,Budget,Differential
+Tosin,0.0,Adarabioyo,0.1,FUL,0,0.0,Tosin,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,422,418,404,425,Defender,4.5,0,Budget,Differential
+Kenny,0.0,Tete,0.1,FUL,0,0.0,Tete,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,432,429,418,435,Defender,4.5,0,Budget,Differential
+Antonee,0.0,Robinson,0.2,FUL,0,0.0,Robinson,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,435,432,421,438,Defender,4.5,0,Budget,Differential
+Jonny,2.2,Evans,0.3,LEI,39,8.7,Evans,1346,1,1,2,23,0,0,257,355.6,57.6,75.0,48.8,184,276,267,262,Defender,4.5,2,Budget,Differential
+Ryan,1.0,Bertrand,0.0,LEI,4,1.0,Bertrand,337,0,0,0,7,0,0,32,48.0,14.8,8.0,7.2,338,326,323,349,Defender,4.0,0,Budget,Differential
+Jannik,1.1,Vestergaard,10.8,LEI,11,2.8,Vestergaard,563,0,0,1,16,0,0,115,159.2,15.2,15.0,19.0,286,325,316,318,Defender,4.0,0,Budget,Differential
+Ricardo,2.5,Barbosa Pereira,0.6,LEI,35,7.8,Ricardo,990,1,3,1,20,0,3,202,274.8,139.6,122.0,53.7,220,206,227,251,Defender,4.5,4,Budget,Differential
+Daniel,2.0,Amartey,0.3,LEI,55,12.2,Amartey,2118,0,0,5,40,0,4,422,460.4,69.4,20.0,54.9,130,260,310,246,Defender,4.5,0,Budget,Differential
+Timothy,2.8,Castagne,1.3,LEI,75,16.7,Castagne,2124,1,0,6,30,0,6,365,435.4,241.0,103.0,78.1,140,148,245,191,Defender,4.5,1,Budget,Differential
+Çaglar,2.4,Söyüncü,0.6,LEI,66,14.7,Söyüncü,2497,1,0,5,44,0,6,454,606.4,64.7,90.0,76.2,71,266,256,197,Defender,4.5,1,Budget,Differential
+James,2.2,Justin,3.1,LEI,29,6.4,Justin,996,0,0,2,13,0,1,167,190.0,136.2,97.0,42.5,265,209,251,271,Defender,4.5,0,Budget,Differential
+Luke,2.3,Thomas,0.1,LEI,50,11.1,Thomas,1911,0,1,5,35,0,1,349,406.2,198.5,59.0,66.6,159,169,284,222,Defender,4.5,1,Budget,Differential
+Wesley,2.4,Fofana,1.0,LEI,17,3.8,Fofana,630,0,0,1,7,0,2,112,131.4,30.1,32.0,19.4,300,305,302,317,Defender,4.5,0,Budget,Differential
+Lewis,1.0,Brunt,0.3,LEI,1,0.2,Brunt,23,0,0,0,1,0,0,2,2.0,1.5,2.0,0.6,380,354,335,383,Defender,4.0,0,Budget,Differential
+Liam,2.9,Cooper,0.2,LEE,60,13.3,Cooper,1814,0,2,5,26,0,5,352,413.4,53.4,65.0,53.4,154,279,276,252,Defender,4.5,2,Budget,Differential
+Luke,2.1,Ayling,0.0,LEE,55,12.2,Ayling,2272,2,3,2,66,0,8,405,603.2,186.5,238.0,102.5,74,176,156,134,Defender,4.5,5,Budget,Differential
+Stuart,2.4,Dallas,0.0,LEE,80,16.0,Dallas,2920,1,1,5,66,0,6,473,615.8,509.6,288.0,141.8,67,57,134,67,Defender,5.0,2,Mid,Differential
+Diego,2.8,Llorente,0.2,LEE,77,17.1,Llorente,2341,3,0,5,44,0,6,432,521.8,40.1,142.0,70.7,105,296,210,211,Defender,4.5,3,Budget,Differential
+Robin,1.1,Koch,0.1,LEE,23,5.1,Koch,1572,0,0,1,40,0,0,186,201.2,70.3,121.0,39.5,257,259,229,274,Defender,4.5,0,Budget,Differential
+Pascal,1.2,Struijk,0.1,LEE,35,7.8,Struijk,2050,1,1,1,53,0,0,339,481.0,134.8,191.0,80.8,117,210,187,184,Defender,4.5,2,Budget,Differential
+Junior,0.9,Firpo Adames,0.0,LEE,22,4.9,Firpo,1709,0,2,1,49,0,4,219,320.4,289.4,142.0,75.1,201,121,212,201,Defender,4.5,2,Budget,Differential
+Leo Fuhr,1.0,Hjelde,0.3,LEE,2,0.5,Hjelde,148,0,0,0,5,0,0,29,45.6,12.8,2.0,6.1,340,329,336,351,Defender,4.0,0,Budget,Differential
+Rasmus,0.0,Kristensen,0.5,LEE,0,0.0,Kristensen,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,490,489,485,491,Defender,5.0,0,Mid,Differential
+Joel,5.5,Matip,2.7,LIV,170,28.3,Matip,2790,3,3,17,21,0,20,763,711.4,195.3,509.0,141.7,46,172,65,68,Defender,6.0,6,Premium,Differential
+Virgil,5.4,van Dijk,12.6,LIV,183,28.2,Van Dijk,3060,3,3,21,21,0,13,803,726.4,150.3,455.0,133.1,39,200,78,74,Defender,6.5,6,Premium,Differential
+Andrew,6.4,Robertson,10.2,LIV,186,26.6,Robertson,2537,3,11,17,20,0,23,770,708.2,900.7,372.0,198.3,47,11,104,30,Defender,7.0,14,Premium,Differential
+Trent,6.5,Alexander-Arnold,54.4,LIV,208,27.7,Alexander-Arnold,2853,2,12,18,22,0,32,864,865.2,1449.1,515.0,283.2,14,1,64,7,Defender,7.5,14,Premium,High
+Joseph,2.8,Gomez,0.2,LIV,22,4.9,Gomez,330,0,1,2,3,0,2,92,76.6,64.0,13.0,15.4,325,268,319,326,Defender,4.5,1,Budget,Differential
+Ibrahima,3.0,Konaté,2.3,LIV,33,6.6,Konaté,990,0,0,4,10,0,0,208,213.4,21.0,20.0,25.4,252,316,313,308,Defender,5.0,0,Mid,Differential
+Konstantinos,3.2,Tsimikas,0.2,LIV,42,9.3,Tsimikas,874,0,2,4,6,0,2,202,214.4,401.1,141.0,75.8,251,90,213,199,Defender,4.5,2,Budget,Differential
+Calvin,0.0,Ramsay,0.3,LIV,0,0.0,Ramsay,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,409,401,385,412,Defender,4.0,0,Budget,Differential
+Rhys,0.0,Williams,0.1,LIV,0,0.0,R.Williams,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,400,390,374,402,Defender,4.0,0,Budget,Differential
+Ben,0.0,Davies,0.1,LIV,0,0.0,Davies,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,391,379,361,393,Defender,4.0,0,Budget,Differential
+Sepp,0.0,van den Berg,0.3,LIV,0,0.0,Van den Berg,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,407,399,383,410,Defender,4.0,0,Budget,Differential
+Nathaniel,0.0,Phillips,0.3,LIV,0,0.0,Phillips,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,394,383,366,396,Defender,4.0,0,Budget,Differential
+Kyle,4.2,Walker,5.6,MCI,85,17.0,Walker,1755,0,2,10,14,0,5,403,274.2,247.8,110.0,63.2,222,142,242,229,Defender,5.0,2,Mid,Differential
+John,5.0,Stones,3.6,MCI,70,12.7,Stones,1117,1,0,9,6,0,4,290,219.8,79.7,145.0,44.4,249,253,207,268,Defender,5.5,1,Mid,Differential
+João,5.6,Cancelo,45.3,MCI,201,28.7,Cancelo,3227,1,11,19,25,0,27,829,796.0,786.9,851.0,243.6,22,14,27,19,Defender,7.0,12,Premium,High
+Nathan,3.9,Aké,0.4,MCI,54,10.8,Aké,919,2,0,5,3,0,0,234,245.0,58.9,75.0,37.9,238,274,268,277,Defender,5.0,2,Mid,Differential
+Aymeric,4.8,Laporte,4.7,MCI,160,26.7,Laporte,2830,4,2,18,24,0,8,714,660.0,201.0,348.0,120.7,58,167,108,95,Defender,6.0,6,Premium,Differential
+Rúben,4.9,Gato Alves Dias,10.7,MCI,141,23.5,Dias,2401,2,5,14,18,0,12,622,581.2,225.2,268.0,107.6,86,157,144,125,Defender,6.0,7,Premium,Differential
+Luke,0.0,Mbete-Tabu,0.1,MCI,0,0.0,Mbete,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,405,397,381,408,Defender,4.0,0,Budget,Differential
+Josh,0.0,Wilson-Esbrand,0.6,MCI,0,0.0,Wilson-Esbrand,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,408,400,384,411,Defender,4.0,0,Budget,Differential
+Phil,1.0,Jones,0.4,MUN,4,1.0,Jones,161,0,0,0,3,0,0,41,53.0,1.6,0.0,5.5,335,353,354,354,Defender,4.0,0,Budget,Differential
+Raphaël,3.4,Varane,2.1,MUN,75,15.0,Varane,1829,1,1,5,22,0,9,378,402.4,60.0,119.0,58.5,161,273,234,238,Defender,5.0,2,Mid,Differential
+Harry,2.3,Maguire,0.8,MUN,69,13.8,Maguire,2513,1,0,7,43,0,4,451,571.0,77.2,316.0,96.5,90,256,119,146,Defender,5.0,1,Mid,Differential
+Luke,2.3,Shaw,1.1,MUN,46,9.2,Shaw,1600,0,3,3,24,0,3,276,292.0,586.1,54.0,93.3,210,41,288,157,Defender,5.0,3,Mid,Differential
+Alex,3.2,Telles,0.3,MUN,67,13.4,Telles,1658,0,4,5,26,0,6,345,399.6,455.6,103.0,95.9,162,72,246,151,Defender,5.0,4,Mid,Differential
+Victor,2.4,Lindelöf,0.3,MUN,66,14.7,Lindelöf,2353,0,2,6,47,0,4,471,449.0,76.3,66.0,59.3,136,257,274,235,Defender,4.5,2,Budget,Differential
+Eric,0.5,Bailly,2.0,MUN,2,0.5,Bailly,216,0,0,0,4,0,0,22,36.0,1.0,0.0,3.7,349,356,365,361,Defender,4.0,0,Budget,Differential
+Aaron,2.0,Wan-Bissaka,0.4,MUN,41,9.1,Wan-Bissaka,1793,0,0,3,35,0,3,329,371.8,237.0,123.0,73.3,174,151,226,206,Defender,4.5,0,Budget,Differential
+Diogo,2.2,Dalot Teixeira,4.4,MUN,54,12.0,Dalot,1797,0,0,5,29,0,5,382,411.0,286.1,126.0,82.2,156,125,224,179,Defender,4.5,0,Budget,Differential
+Brandon,1.4,Williams,2.7,MUN,36,9.0,B.Williams,2119,0,1,2,52,0,4,346,371.0,289.3,80.0,74.5,175,122,264,202,Defender,4.0,1,Budget,Differential
+Tyrell,0.0,Malacia,2.7,MUN,0,0.0,Malacia,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,445,442,433,448,Defender,4.5,0,Budget,Differential
+Matt,1.1,Ritchie,0.1,NEW,20,4.4,Ritchie,1333,0,2,0,37,0,0,207,226.0,420.4,92.0,74.0,247,84,254,204,Defender,4.5,2,Budget,Differential
+Federico,1.6,Fernández,0.1,NEW,11,2.4,Fernández,521,0,1,0,12,0,0,91,129.4,13.8,69.0,21.2,301,327,270,316,Defender,4.5,1,Budget,Differential
+Ciaran,1.1,Clark,0.0,NEW,14,3.1,Clark,1012,0,1,0,27,0,1,131,189.2,49.9,95.0,33.1,266,282,252,288,Defender,4.5,1,Budget,Differential
+Kieran,4.7,Trippier,16.0,NEW,28,5.6,Trippier,429,2,0,1,5,0,3,101,164.8,128.3,14.0,30.8,281,218,317,295,Defender,5.0,2,Mid,High
+Dan,3.2,Burn,1.4,NEW,92,20.4,Burn,2461,1,1,9,30,0,6,454,594.0,83.8,264.0,94.0,76,250,146,155,Defender,4.5,2,Budget,Differential
+Jamaal,1.8,Lascelles,0.2,NEW,47,10.4,Lascelles,2055,1,1,3,44,0,2,284,418.4,46.4,280.0,74.2,151,287,139,203,Defender,4.5,2,Budget,Differential
+Paul,2.3,Dummett,0.5,NEW,7,1.8,Dummett,197,0,0,1,1,0,0,28,24.2,1.9,0.0,2.6,356,352,358,367,Defender,4.0,0,Budget,Differential
+Javier,2.0,Manquillo Gaitán,0.1,NEW,38,8.4,Manquillo,1258,1,3,1,27,0,0,206,244.2,65.4,64.0,37.7,240,265,278,278,Defender,4.5,4,Budget,Differential
+Emil,2.9,Krafth,0.1,NEW,58,12.9,Krafth,1636,0,1,6,20,0,3,262,270.4,102.7,54.0,42.9,224,236,287,270,Defender,4.5,1,Budget,Differential
+Fabian,3.5,Schär,0.7,NEW,88,19.6,Schär,2158,2,2,6,32,0,10,383,465.2,115.9,234.0,81.7,125,230,159,182,Defender,4.5,4,Budget,Differential
+Matt,3.1,Targett,1.4,NEW,101,20.2,Targett,2871,1,2,9,47,0,7,530,587.4,635.1,184.0,140.7,82,33,191,69,Defender,5.0,3,Mid,Differential
+Jamal,2.0,Lewis,0.1,NEW,10,2.2,Lewis,261,0,0,1,4,0,0,39,39.4,13.8,2.0,5.6,347,328,338,353,Defender,4.5,0,Budget,Differential
+Sven,0.0,Botman,3.4,NEW,0,0.0,Botman,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,442,439,430,445,Defender,4.5,0,Budget,Differential
+Neco,4.0,Williams,24.7,NFO,4,1.0,N.Williams,7,0,1,0,0,0,0,17,18.2,11.1,2.0,3.1,365,336,334,364,Defender,4.0,1,Budget,High
+Steve,0.0,Cook,0.3,NFO,0,0.0,Cook,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,414,407,391,417,Defender,4.5,0,Budget,Differential
+Scott,0.0,McKenna,0.2,NFO,0,0.0,McKenna,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,433,430,419,436,Defender,4.5,0,Budget,Differential
+Mohamed,0.0,Dräger,0.9,NFO,0,0.0,Dräger,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,393,382,364,395,Defender,4.0,0,Budget,Differential
+Joe,0.0,Worrall,0.2,NFO,0,0.0,Worrall,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,441,438,428,444,Defender,4.5,0,Budget,Differential
+Jonathan,0.0,Panzo,0.1,NFO,0,0.0,Panzo,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,397,387,370,399,Defender,4.0,0,Budget,Differential
+Richie,0.0,Laryea,0.1,NFO,0,0.0,Laryea,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,444,441,432,447,Defender,4.5,0,Budget,Differential
+Loïc,0.0,Mbe Soh,0.1,NFO,0,0.0,Mbe Soh,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,450,447,438,453,Defender,4.5,0,Budget,Differential
+Giulian,0.0,Biancone,0.1,NFO,0,0.0,Biancone,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,455,451,443,457,Defender,4.5,0,Budget,Differential
+Moussa,0.0,Niakhaté,0.2,NFO,0,0.0,Niakhaté,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,438,435,425,441,Defender,4.5,0,Budget,Differential
+Omar,0.0,Richards,0.1,NFO,0,0.0,Richards,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,440,437,427,443,Defender,4.5,0,Budget,Differential
+Harry,0.0,Toffolo,0.1,NFO,0,0.0,Toffolo,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,423,420,407,426,Defender,4.5,0,Budget,Differential
+Jack,1.1,Stephens,0.1,SOU,12,2.7,Stephens,810,0,0,1,19,0,0,135,192.8,48.2,6.0,24.8,262,285,328,310,Defender,4.5,0,Budget,Differential
+Kyle,2.6,Walker-Peters,1.3,SOU,82,18.2,Walker-Peters,2630,1,3,6,49,0,7,481,481.8,376.9,425.0,128.0,115,96,91,86,Defender,4.5,4,Budget,Differential
+Jan,3.0,Bednarek,0.6,SOU,94,20.9,Bednarek,2629,4,0,7,52,0,15,499,699.6,88.1,321.0,111.2,49,247,118,112,Defender,4.5,4,Budget,Differential
+Lyanco,1.3,Silveira Neves Vojnovic,0.1,SOU,19,4.2,Lyanco,906,0,0,1,20,0,1,155,202.8,35.6,58.0,29.6,256,298,285,299,Defender,4.5,0,Budget,Differential
+Yan,1.8,Valery,1.0,SOU,9,2.2,Valery,369,0,0,1,7,0,0,62,70.8,20.4,2.0,9.3,327,317,333,341,Defender,4.0,0,Budget,Differential
+Romain,1.9,Perraud,0.1,SOU,38,8.4,Perraud,1621,0,1,3,33,0,1,189,195.2,152.7,178.0,52.4,261,196,195,256,Defender,4.5,1,Budget,Differential
+Tino,2.9,Livramento,0.0,SOU,80,17.8,Livramento,2200,1,2,7,42,0,7,440,437.2,327.4,221.0,98.8,138,112,165,143,Defender,4.5,3,Budget,Differential
+Mohammed,1.7,Salisu,0.2,SOU,58,12.9,Salisu,2971,0,0,6,58,0,4,478,730.2,139.6,330.0,119.7,37,207,112,98,Defender,4.5,0,Budget,Differential
+Armel,0.0,Bella-Kotchap,0.1,SOU,0,0.0,Bella-Kotchap,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,465,461,452,466,Defender,4.5,0,Budget,Differential
+Matt,4.5,Doherty,1.1,TOT,67,13.4,Doherty,871,2,5,3,11,0,8,255,279.6,224.4,291.0,79.6,218,158,130,187,Defender,5.0,7,Mid,Differential
+Eric,3.8,Dier,3.3,TOT,132,26.4,Dier,3071,0,1,16,30,0,7,680,727.4,117.1,195.0,104.0,38,227,185,128,Defender,5.0,1,Mid,Differential
+Ben,3.6,Davies,0.7,TOT,105,21.0,Davies,2537,1,2,12,30,0,3,490,501.4,203.5,254.0,96.2,110,166,151,148,Defender,5.0,3,Mid,Differential
+Davinson,4.0,Sánchez,0.7,TOT,93,20.7,Sánchez,1626,2,1,10,16,0,8,417,421.4,94.3,186.0,70.2,149,244,189,213,Defender,4.5,3,Budget,Differential
+Ryan,3.7,Sessegnon,0.6,TOT,56,12.4,R.Sessegnon,1046,0,3,6,11,0,3,231,171.0,204.9,137.0,51.3,277,165,215,259,Defender,4.5,3,Budget,Differential
+Sergio,4.2,Reguilón,2.9,TOT,104,23.1,Reguilón,1914,2,4,9,25,0,9,438,468.8,459.9,362.0,129.3,124,69,106,84,Defender,4.5,6,Budget,Differential
+Japhet,2.6,Tanganga,4.3,TOT,29,7.2,Tanganga,735,0,0,5,11,0,0,133,118.0,48.1,108.0,27.5,308,286,243,303,Defender,4.0,0,Budget,Differential
+Joe,1.0,Rodon,0.5,TOT,3,0.8,Rodon,87,0,0,0,3,0,0,17,19.6,0.7,0.0,2.0,362,360,371,373,Defender,4.0,0,Budget,Differential
+Cristian,2.9,Romero,2.6,TOT,63,12.6,Romero,1844,1,0,5,25,0,10,385,498.8,98.9,102.0,69.9,111,239,247,216,Defender,5.0,1,Mid,Differential
+Emerson,3.3,Leite de Souza Junior,0.7,TOT,102,20.4,Emerson Royal,2282,1,1,10,26,0,8,489,463.0,448.9,298.0,121.1,127,74,127,93,Defender,5.0,2,Mid,Differential
+Ivan,0.0,Perišić,31.9,TOT,0,0.0,Perišić,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,501,501,499,502,Defender,5.5,0,Mid,High
+Clément,0.0,Lenglet,0.5,TOT,0,0.0,Lenglet,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,484,483,479,485,Defender,5.0,0,Mid,Differential
+Djed,0.0,Spence,1.1,TOT,0,0.0,Spence,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,448,445,436,451,Defender,4.5,0,Budget,Differential
+Angelo,3.6,Ogbonna,0.2,WHU,40,8.9,Ogbonna,921,1,0,3,11,0,6,182,167.0,5.3,67.0,24.0,279,345,272,314,Defender,4.5,1,Budget,Differential
+Aaron,3.7,Cresswell,3.7,WHU,115,23.0,Cresswell,2726,2,4,7,38,0,17,578,589.2,545.7,187.0,132.4,80,46,188,78,Defender,5.0,6,Mid,Differential
+Craig,2.6,Dawson,0.5,WHU,90,18.0,Dawson,2752,2,3,6,43,0,1,466,712.0,62.4,389.0,116.6,45,271,101,103,Defender,5.0,5,Mid,Differential
+Kurt,2.8,Zouma,1.3,WHU,66,14.7,Zouma,2078,1,0,5,29,0,5,388,506.0,33.3,131.0,67.2,107,300,220,220,Defender,4.5,1,Budget,Differential
+Arthur,2.2,Masuaku,0.1,WHU,29,6.4,Masuaku,645,1,1,1,12,0,3,145,178.2,57.2,39.0,27.5,272,277,296,304,Defender,4.5,2,Budget,Differential
+Vladimir,2.5,Coufal,1.6,WHU,70,15.6,Coufal,2207,0,4,6,36,0,3,384,433.2,359.9,167.0,95.8,141,103,202,152,Defender,4.5,4,Budget,Differential
+Issa,2.3,Diop,0.2,WHU,30,6.7,Diop,961,0,1,2,19,0,2,203,225.6,21.3,44.0,29.1,248,315,293,300,Defender,4.5,1,Budget,Differential
+Ben,2.4,Johnson,0.1,WHU,48,10.7,Johnson,1397,1,0,3,18,0,1,235,307.2,176.4,39.0,52.3,208,182,298,258,Defender,4.5,1,Budget,Differential
+Nayef,0.0,Aguerd,0.4,WHU,0,0.0,Aguerd,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,488,487,483,489,Defender,5.0,0,Mid,Differential
+Willy,1.7,Boly,0.3,WOL,17,3.8,Boly,900,0,0,1,20,0,0,165,195.4,18.1,29.0,24.3,260,322,304,313,Defender,4.5,0,Budget,Differential
+Conor,3.6,Coady,5.0,WOL,138,27.6,Coady,3361,4,0,11,43,0,10,688,781.0,45.4,202.0,103.2,25,288,176,130,Defender,5.0,4,Mid,Differential
+Jonathan,2.9,Castro Otto,1.3,WOL,38,8.4,Jonny,1022,2,0,2,22,0,2,178,229.8,174.2,144.0,54.9,245,184,208,245,Defender,4.5,2,Budget,Differential
+Nélson,3.8,Cabral Semedo,0.0,WOL,94,18.8,Semedo,2131,0,1,9,18,0,9,412,346.2,289.3,266.0,90.3,189,123,145,168,Defender,5.0,1,Mid,Differential
+Max,3.5,Kilman,0.6,WOL,106,23.6,Kilman,2688,1,1,10,25,0,5,536,587.8,68.8,207.0,86.5,81,262,174,174,Defender,4.5,2,Budget,Differential
+Rayan,3.8,Aït-Nouri,2.5,WOL,87,19.3,Aït-Nouri,1826,1,4,7,26,0,10,367,390.8,323.2,174.0,89.1,167,117,197,170,Defender,4.5,5,Budget,Differential
+Toti António,1.5,Gomes,0.9,WOL,6,1.5,Toti,360,0,0,0,6,0,0,52,87.0,4.5,28.0,12.0,319,346,305,333,Defender,4.0,0,Budget,Differential
+Yerson,0.0,Mosquera Valdelamar,1.2,WOL,0,0.0,Mosquera,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,411,403,387,414,Defender,4.0,0,Budget,Differential
+Nathan,2.9,Collins,0.3,WOL,55,12.2,Collins,1670,2,0,5,26,0,1,272,436.0,78.2,254.0,77.0,139,254,150,192,Defender,4.5,2,Budget,Differential
+Granit,2.2,Xhaka,0.5,ARS,60,12.0,Xhaka,2327,1,2,6,38,0,3,334,395.4,522.9,262.0,118.2,163,54,147,101,Midfielder,5.0,3,Budget,Differential
+Mohamed,1.9,Elneny,1.5,ARS,27,6.0,Elneny,801,0,2,0,17,0,0,156,163.2,131.5,49.0,34.4,283,216,290,285,Midfielder,4.5,2,Budget,Differential
+Thomas,3.0,Partey,0.5,ARS,71,14.2,Partey,2027,2,2,10,25,0,4,345,359.6,275.5,394.0,103.0,183,133,99,131,Midfielder,5.0,4,Budget,Differential
+Martin,3.6,Ødegaard,10.8,ARS,131,20.2,Ødegaard,2782,7,4,11,39,0,9,541,676.6,1073.2,639.0,238.2,54,5,47,21,Midfielder,6.5,11,Mid,Differential
+Nicolas,2.2,Pépé,0.4,ARS,45,8.2,Pépé,681,1,4,2,9,0,1,127,149.4,216.9,400.0,76.3,292,160,97,196,Midfielder,5.5,5,Budget,Differential
+Emile,3.8,Smith Rowe,4.3,ARS,125,20.8,Smith Rowe,1909,10,2,8,28,0,9,435,555.8,453.3,576.0,158.4,97,73,54,55,Midfielder,6.0,12,Mid,Differential
+Bukayo,4.7,Saka,16.6,ARS,179,22.4,Saka,2978,11,9,13,39,0,18,566,790.4,977.8,1434.0,320.0,23,7,4,4,Midfielder,8.0,20,Mid,High
+Albert,1.7,Sambi Lokonga,0.3,ARS,32,7.1,Sambi,1129,0,0,7,11,0,0,173,192.4,263.4,108.0,56.3,263,138,244,241,Midfielder,4.5,0,Budget,Differential
+Gabriel,3.8,Martinelli Silva,14.1,ARS,110,18.3,Martinelli,1855,6,7,7,25,0,6,345,475.8,483.3,786.0,174.7,120,64,32,45,Midfielder,6.0,13,Mid,Differential
+Ainsley,1.5,Maitland-Niles,0.1,ARS,12,2.4,Maitland-Niles,263,0,0,2,4,0,0,44,42.6,41.3,9.0,9.3,345,293,322,342,Midfielder,5.0,0,Budget,Differential
+Lucas,0.0,Torreira di Pascua,0.6,ARS,0,0.0,Torreira,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,437,434,424,440,Midfielder,4.5,0,Budget,Differential
+Reiss,1.0,Nelson,0.0,ARS,1,0.2,Nelson,19,0,0,0,1,0,0,4,4.0,11.6,20.0,3.6,378,334,312,362,Midfielder,5.0,0,Budget,Differential
+Fábio,0.0,Ferreira Vieira,0.5,ARS,0,0.0,Fábio Vieira,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,523,523,523,523,Midfielder,6.0,0,Mid,Differential
+Marcus,0.0,Oliveira Alencar,0.1,ARS,0,0.0,Marquinhos,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,500,500,497,501,Midfielder,5.0,0,Budget,Differential
+Philippe,4.4,Coutinho Correia,18.9,AVL,83,11.9,Coutinho,1327,5,3,7,17,0,7,283,360.8,349.3,445.0,115.7,182,104,81,105,Midfielder,7.0,8,Mid,High
+Bertrand,1.4,Traoré,0.2,AVL,13,2.6,Traoré,212,0,1,0,3,0,0,41,21.0,10.6,90.0,11.8,358,337,257,334,Midfielder,5.0,1,Budget,Differential
+Morgan,1.3,Sanson,0.3,AVL,13,2.9,Sanson,349,0,0,0,8,0,0,61,52.8,36.6,3.0,9.4,336,297,332,339,Midfielder,4.5,0,Budget,Differential
+John,3.1,McGinn,1.7,AVL,110,20.0,McGinn,3090,3,4,10,48,0,12,495,700.2,777.8,307.0,178.6,48,15,124,40,Midfielder,5.5,7,Budget,Differential
+Marvelous,1.4,Nakamba,0.2,AVL,22,4.9,Nakamba,899,0,0,2,20,0,0,124,139.2,42.2,0.0,18.3,298,291,423,319,Midfielder,4.5,0,Budget,Differential
+Emiliano,3.1,Buendía Stati,0.7,AVL,107,17.8,Buendía,1887,4,6,7,32,0,8,378,482.8,660.5,531.0,167.8,114,28,62,49,Midfielder,6.0,10,Mid,Differential
+Leon,2.1,Bailey,6.2,AVL,37,7.4,Bailey,750,1,3,2,13,0,1,98,143.2,118.5,271.0,53.2,295,224,142,254,Midfielder,5.0,4,Budget,Differential
+Douglas Luiz,2.6,Soares de Paulo,0.8,AVL,89,17.8,Douglas Luiz,2715,2,3,10,38,0,3,468,503.2,547.9,199.0,125.1,108,45,181,89,Midfielder,5.0,5,Budget,Differential
+Jacob,3.2,Ramsey,3.2,AVL,109,19.8,Ramsey,2465,6,1,12,35,0,9,402,538.2,334.0,432.0,130.7,102,108,89,81,Midfielder,5.5,7,Budget,Differential
+Carney,1.3,Chukwuemeka,0.8,AVL,16,3.6,Chukwuemeka,291,0,1,0,6,0,0,43,44.0,34.6,69.0,14.9,342,299,271,327,Midfielder,4.5,1,Budget,Differential
+Tim,1.3,Iroegbunam,0.0,AVL,4,0.9,Iroegbunam,90,0,0,1,0,0,0,17,10.6,2.0,4.0,1.7,371,351,331,376,Midfielder,4.5,0,Budget,Differential
+Anwar,2.0,El Ghazi,0.1,AVL,22,4.4,El Ghazi,392,1,1,1,8,0,1,61,74.6,85.2,85.0,24.4,326,249,261,312,Midfielder,5.0,2,Budget,Differential
+Boubacar,0.0,Kamara,0.2,AVL,0,0.0,Kamara,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,491,490,487,492,Midfielder,5.0,0,Budget,Differential
+Jaden,1.0,Philogene-Bidace,0.0,AVL,1,0.2,Philogene-Bidace,4,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,466,462,454,467,Midfielder,4.5,0,Budget,Differential
+Junior,0.0,Stanislas,0.2,BOU,0,0.0,Stanislas,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,473,471,465,474,Midfielder,5.0,0,Budget,Differential
+David,0.0,Brooks,0.3,BOU,0,0.0,Brooks,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,505,505,503,506,Midfielder,5.5,0,Budget,Differential
+Jamal,0.0,Lowe,0.1,BOU,0,0.0,Lowe,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,506,507,506,507,Midfielder,5.5,0,Budget,Differential
+Emiliano,0.0,Marcondes,0.0,BOU,0,0.0,Marcondes,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,476,475,470,477,Midfielder,5.0,0,Budget,Differential
+Jefferson,0.0,Lerma Solís,0.1,BOU,0,0.0,Lerma,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,477,476,472,478,Midfielder,5.0,0,Budget,Differential
+Lewis,0.0,Cook,0.1,BOU,0,0.0,Cook,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,479,478,474,480,Midfielder,5.0,0,Budget,Differential
+Ben,0.0,Pearson,0.2,BOU,0,0.0,Pearson,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,429,426,414,432,Midfielder,4.5,0,Budget,Differential
+Ryan,0.0,Christie,0.1,BOU,0,0.0,Christie,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,508,509,508,509,Midfielder,5.5,0,Budget,Differential
+Philip,0.0,Billing,0.3,BOU,0,0.0,Billing,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,509,510,509,510,Midfielder,5.5,0,Budget,Differential
+Siriki,0.0,Dembélé,0.1,BOU,0,0.0,Dembélé,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,494,494,491,495,Midfielder,5.0,0,Budget,Differential
+Jaidon,0.0,Anthony,0.1,BOU,0,0.0,Anthony,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,516,516,516,516,Midfielder,5.5,0,Budget,Differential
+Joe,0.0,Rothwell,0.0,BOU,0,0.0,Rothwell,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,480,479,475,481,Midfielder,5.0,0,Budget,Differential
+Christian,2.9,Nørgaard,0.3,BRE,101,18.4,Nørgaard,3054,3,4,8,51,0,5,502,694.8,409.8,434.0,154.3,51,86,87,58,Midfielder,5.5,7,Budget,Differential
+Josh,0.8,Dasilva,1.3,BRE,7,1.6,Dasilva,250,0,0,0,6,0,0,27,30.2,41.2,30.0,10.0,352,294,303,336,Midfielder,4.5,0,Budget,Differential
+Vitaly,2.9,Janelt,0.1,BRE,90,16.4,Janelt,2295,4,0,9,37,0,8,343,460.6,331.1,400.0,119.0,129,110,98,100,Midfielder,5.5,4,Budget,Differential
+Saman,1.8,Ghoddos,0.0,BRE,30,6.0,Ghoddos,524,1,2,1,4,0,0,115,128.4,96.3,133.0,36.0,302,243,219,282,Midfielder,5.0,3,Budget,Differential
+Mathias,1.7,Jensen,0.1,BRE,54,10.8,Jensen,1590,0,1,3,30,0,2,246,253.2,540.6,198.0,99.3,231,48,184,141,Midfielder,5.0,1,Budget,Differential
+Yoane,3.1,Wissa,0.3,BRE,92,16.7,Wissa,1268,7,2,3,22,0,6,277,348.0,133.1,402.0,87.6,188,213,96,171,Midfielder,5.5,9,Budget,Differential
+Frank,1.8,Onyeka,0.0,BRE,35,7.0,Onyeka,1040,0,2,3,19,0,0,117,93.0,73.5,174.0,33.7,315,258,198,287,Midfielder,5.0,2,Budget,Differential
+Shandon,1.6,Baptiste,0.3,BRE,35,7.8,Baptiste,898,1,0,2,15,0,2,120,139.0,120.8,145.0,40.3,299,223,206,273,Midfielder,4.5,1,Budget,Differential
+Mads,1.0,Bidstrup,0.0,BRE,4,0.9,Bidstrup,36,0,0,0,0,0,0,11,6.6,0.7,0.0,0.8,374,361,453,382,Midfielder,4.5,0,Budget,Differential
+Keane,0.0,Lewis-Potter,0.2,BRE,0,0.0,Lewis-Potter,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,514,514,514,514,Midfielder,5.5,0,Budget,Differential
+Adam,1.8,Lallana,0.1,BHA,44,8.8,Lallana,1559,0,1,6,20,0,0,240,209.4,162.9,173.0,54.6,253,191,199,247,Midfielder,5.0,1,Budget,Differential
+Pascal,3.0,Groß,0.2,BHA,88,16.0,Gross,2033,2,5,8,24,0,7,405,475.2,961.8,370.0,180.9,121,8,105,38,Midfielder,5.5,7,Budget,Differential
+Solly,2.0,March,0.1,BHA,61,12.2,March,1733,0,2,7,23,0,0,216,278.4,528.4,291.0,109.7,219,51,131,119,Midfielder,5.0,2,Budget,Differential
+Leandro,4.1,Trossard,2.1,BHA,141,21.7,Trossard,2803,8,4,11,33,0,16,465,627.6,708.3,1020.0,235.4,64,21,13,22,Midfielder,6.5,12,Mid,Differential
+Steven,1.4,Alzate,0.2,BHA,13,2.9,Alzate,401,0,0,0,7,0,0,77,70.2,40.8,21.0,13.3,328,295,309,332,Midfielder,4.5,0,Budget,Differential
+Alexis,2.8,Mac Allister,0.2,BHA,93,16.9,Mac Allister,2112,5,2,6,29,0,8,398,509.6,490.7,550.0,154.9,106,62,58,57,Midfielder,5.5,7,Budget,Differential
+Jakub,2.1,Moder,0.1,BHA,58,12.9,Moder,1694,0,3,5,23,0,0,227,239.6,286.0,372.0,90.3,241,126,103,167,Midfielder,4.5,3,Budget,Differential
+Enock,3.2,Mwepu,0.2,BHA,58,10.5,Mwepu,990,2,5,3,13,0,5,200,244.8,143.2,210.0,59.4,239,202,172,234,Midfielder,5.5,7,Budget,Differential
+Jeremy,1.0,Sarmiento Morante,0.1,BHA,5,1.1,Sarmiento,44,0,0,0,2,0,0,15,2.8,2.4,2.0,0.8,379,350,340,379,Midfielder,4.5,0,Budget,Differential
+Moisés,3.4,Caicedo Corozo,0.1,BHA,27,5.4,Caicedo,660,1,1,4,6,0,1,124,145.4,64.6,131.0,34.1,294,267,221,286,Midfielder,5.0,2,Budget,Differential
+Taylor,1.0,Richards,0.0,BHA,2,0.4,Richards,23,0,0,0,0,0,0,5,4.6,12.8,8.0,2.5,376,330,324,369,Midfielder,4.5,0,Budget,Differential
+Kaoru,0.0,Mitoma,0.0,BHA,0,0.0,Mitoma,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,497,497,494,498,Midfielder,5.0,0,Budget,Differential
+Kacper,0.0,Kozłowski,0.1,BHA,0,0.0,Kozłowski,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,468,464,456,469,Midfielder,4.5,0,Budget,Differential
+Jorge Luiz,3.7,Frello Filho,1.2,CHE,106,17.7,Jorginho,2271,6,2,12,16,0,11,519,605.8,429.3,214.0,125.1,72,79,170,90,Midfielder,6.0,8,Mid,Differential
+Ross,2.3,Barkley,0.1,CHE,14,2.8,Barkley,174,1,0,1,2,0,1,43,61.4,117.7,87.0,26.7,331,226,260,305,Midfielder,5.0,1,Budget,Differential
+Mateo,3.0,Kovacic,1.1,CHE,76,15.2,Kovacic,1552,2,5,8,11,0,7,348,409.6,407.4,198.0,101.5,157,88,182,135,Midfielder,5.0,7,Budget,Differential
+N'Golo,3.0,Kanté,2.7,CHE,79,15.8,Kanté,1769,2,5,9,19,0,2,377,455.6,414.3,223.0,109.3,134,85,162,121,Midfielder,5.0,7,Budget,Differential
+Hakim,3.4,Ziyech,0.5,CHE,79,13.2,Ziyech,1311,4,3,7,12,0,9,281,365.2,458.6,504.0,132.6,179,71,66,77,Midfielder,6.0,7,Mid,Differential
+Ruben,2.2,Loftus-Cheek,0.1,CHE,52,10.4,Loftus-Cheek,1384,0,3,5,21,0,1,251,282.8,291.1,218.0,79.2,215,120,169,190,Midfielder,5.0,3,Budget,Differential
+Christian,3.5,Pulisic,0.8,CHE,77,12.8,Pulisic,1282,6,2,6,10,0,2,206,317.6,223.9,434.0,97.5,205,159,88,145,Midfielder,6.0,8,Mid,Differential
+Mason,5.3,Mount,9.2,CHE,169,21.1,Mount,2358,11,11,11,25,0,16,597,823.8,944.9,995.0,276.3,18,9,17,8,Midfielder,8.0,22,Mid,Differential
+Callum,3.3,Hudson-Odoi,0.1,CHE,49,8.9,Hudson-Odoi,958,1,4,6,8,0,1,163,175.4,326.9,326.0,82.7,275,114,114,178,Midfielder,5.5,5,Budget,Differential
+Conor,4.1,Gallagher,2.7,CHE,140,23.3,Gallagher,2843,8,6,11,38,0,16,469,673.8,635.9,672.0,197.9,55,32,46,31,Midfielder,6.0,14,Mid,Differential
+Billy,2.0,Gilmour,0.6,CHE,49,10.9,Gilmour,1852,0,1,2,52,0,1,283,280.2,458.7,134.0,87.2,216,70,218,172,Midfielder,4.5,1,Budget,Differential
+Raheem,5.4,Sterling,6.9,CHE,163,16.3,Sterling,2121,13,7,13,17,0,15,468,730.8,613.2,1188.0,253.4,36,38,11,16,Midfielder,10.0,20,Premium,Differential
+James,2.6,McArthur,0.1,CRY,54,10.8,McArthur,1434,0,4,5,15,0,5,288,324.2,256.6,120.0,70.0,196,139,232,215,Midfielder,5.0,4,Budget,Differential
+Luka,1.3,Milivojevic,0.7,CRY,19,4.2,Milivojevic,767,0,0,1,16,0,0,118,88.6,196.6,38.0,32.3,317,170,300,290,Midfielder,4.5,0,Budget,Differential
+Jordan,2.5,Ayew,0.3,CRY,77,14.0,Ayew,2012,3,4,9,31,0,3,281,349.2,361.3,491.0,120.1,186,102,69,96,Midfielder,5.5,7,Budget,Differential
+Wilfried,4.5,Zaha,7.1,CRY,150,21.4,Zaha,2759,14,2,11,34,0,11,422,777.2,660.5,1001.0,243.8,26,29,15,18,Midfielder,7.0,16,Mid,Differential
+Jeffrey,2.7,Schlupp,0.2,CRY,86,17.2,Schlupp,1840,4,2,8,19,0,2,297,412.0,249.8,486.0,114.9,155,140,70,108,Midfielder,5.0,6,Budget,Differential
+Will,2.1,Hughes,0.0,CRY,34,6.8,Hughes,1050,0,2,4,16,0,2,164,159.0,143.0,60.0,36.3,287,203,283,281,Midfielder,5.0,2,Budget,Differential
+Jairo,1.3,Riedewald,0.1,CRY,4,0.9,Riedewald,116,0,0,0,5,0,0,16,11.2,27.5,2.0,4.0,369,310,337,360,Midfielder,4.5,0,Budget,Differential
+Eberechi,2.4,Eze,0.8,CRY,31,5.6,Eze,599,1,1,3,8,0,2,125,120.0,175.3,135.0,43.2,306,183,217,269,Midfielder,5.5,2,Budget,Differential
+Michael,2.8,Olise,0.8,CRY,73,13.3,Olise,1127,2,6,4,14,0,8,287,308.2,389.0,269.0,96.5,207,91,143,147,Midfielder,5.5,8,Budget,Differential
+Jesurun,2.0,Rak-Sakyi,0.1,CRY,4,0.9,Rak-Sakyi,79,0,0,1,0,0,0,7,1.0,6.1,2.0,0.8,381,343,341,381,Midfielder,4.5,0,Budget,Differential
+Malcolm,0.0,Ebiowei,0.3,CRY,0,0.0,Ebiowei,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,459,455,447,461,Midfielder,4.5,0,Budget,Differential
+Cheick,0.0,Doucouré,0.1,CRY,0,0.0,C.Doucouré,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,496,496,493,497,Midfielder,5.0,0,Budget,Differential
+Andros,3.1,Townsend,0.0,EVE,66,12.0,Townsend,1452,3,2,3,30,0,8,252,351.6,468.9,221.0,103.9,185,68,167,129,Midfielder,5.5,5,Budget,Differential
+Dele,1.7,Alli,0.5,EVE,35,6.4,Dele,985,1,0,3,23,0,1,103,189.2,142.6,129.0,46.1,267,204,223,266,Midfielder,5.5,1,Budget,Differential
+Allan,2.1,Marques Loureiro,0.1,EVE,58,11.6,Allan,2181,0,3,6,38,0,2,313,391.4,228.4,82.0,70.4,166,156,262,212,Midfielder,5.0,3,Budget,Differential
+André,1.3,Tavares Gomes,0.5,EVE,18,4.0,André Gomes,614,0,1,0,19,0,0,47,84.0,85.2,136.0,30.6,322,248,216,296,Midfielder,4.5,1,Budget,Differential
+Abdoulaye,3.0,Doucouré,0.2,EVE,90,16.4,A.Doucouré,2536,2,5,5,47,0,8,387,481.8,285.8,441.0,121.1,116,127,84,94,Midfielder,5.5,7,Budget,Differential
+Alex,2.8,Iwobi,0.1,EVE,78,14.2,Iwobi,2029,2,2,6,38,0,6,312,370.0,501.4,357.0,122.7,177,60,107,92,Midfielder,5.5,4,Budget,Differential
+Jean-Philippe,1.0,Gbamin,0.0,EVE,3,0.7,Gbamin,65,0,0,0,2,0,0,10,7.0,0.6,0.0,0.8,373,363,416,378,Midfielder,4.5,0,Budget,Differential
+Demarai,3.1,Gray,1.2,EVE,106,19.3,Gray,2336,5,5,6,39,0,3,397,486.2,644.2,758.0,189.0,113,31,37,35,Midfielder,5.5,10,Budget,Differential
+Tom,2.0,Davies,0.1,EVE,12,2.4,Davies,230,1,0,0,9,0,0,44,61.6,8.6,90.0,16.1,330,342,258,322,Midfielder,5.0,1,Budget,Differential
+Anthony,2.9,Gordon,2.3,EVE,100,18.2,Gordon,2277,4,3,7,40,0,9,325,460.4,523.0,632.0,161.6,131,53,48,51,Midfielder,5.5,7,Budget,Differential
+Tom,0.0,Cairney,0.1,FUL,0,0.0,Cairney,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,474,472,466,475,Midfielder,5.0,0,Budget,Differential
+Anthony,0.0,Knockaert,0.1,FUL,0,0.0,Knockaert,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,475,473,467,476,Midfielder,5.0,0,Budget,Differential
+Nathaniel,0.0,Chalobah,0.6,FUL,0,0.0,Chalobah,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,418,413,399,421,Midfielder,4.5,0,Budget,Differential
+Neeskens,0.0,Kebano,0.1,FUL,0,0.0,Kebano,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,503,503,501,504,Midfielder,5.5,0,Budget,Differential
+Bobby,0.0,De Cordova-Reid,0.1,FUL,0,0.0,De Cordova-Reid,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,504,504,502,505,Midfielder,5.5,0,Budget,Differential
+Harrison,0.0,Reed,0.4,FUL,0,0.0,Reed,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,425,422,409,428,Midfielder,4.5,0,Budget,Differential
+Harry,0.0,Wilson,0.8,FUL,0,0.0,Wilson,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,519,519,519,519,Midfielder,6.0,0,Mid,Differential
+Ivan,0.0,Neves Abreu Cavaleiro,0.1,FUL,0,0.0,Cavaleiro,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,482,481,477,483,Midfielder,5.0,0,Budget,Differential
+Josh,0.0,Onomah,0.1,FUL,0,0.0,Onomah,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,434,431,420,437,Midfielder,4.5,0,Budget,Differential
+João,0.0,Palhinha Gonçalves,0.2,FUL,0,0.0,Palhinha,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,478,477,473,479,Midfielder,5.0,0,Budget,Differential
+Andreas,0.0,Hoelgebaum Pereira,24.0,FUL,0,0.0,Andreas,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,430,427,415,433,Midfielder,4.5,0,Budget,High
+Tyrese,0.0,Francois,0.0,FUL,0,0.0,Francois,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,452,448,440,455,Midfielder,4.5,0,Budget,Differential
+Marc,2.4,Albrighton,0.1,LEI,40,8.0,Albrighton,1127,1,2,2,24,0,2,169,236.2,208.6,51.0,49.7,242,163,289,261,Midfielder,5.0,3,Budget,Differential
+Nampalys,1.7,Mendy,0.5,LEI,24,5.3,Mendy,1032,0,0,2,15,0,0,147,88.2,44.2,7.0,14.0,318,289,326,329,Midfielder,4.5,0,Budget,Differential
+Youri,3.8,Tielemans,2.2,LEI,120,18.5,Tielemans,2629,6,4,6,42,0,14,532,723.8,578.9,460.0,175.8,40,42,76,43,Midfielder,6.5,10,Mid,Differential
+Ayoze,2.5,Pérez,0.1,LEI,35,7.0,Pérez,438,2,3,1,15,0,2,101,172.4,139.7,180.0,48.7,276,205,193,263,Midfielder,5.0,5,Budget,Differential
+James,5.2,Maddison,5.7,LEI,181,22.6,Maddison,2454,12,11,5,41,0,24,637,827.4,706.2,770.0,230.2,17,22,36,23,Midfielder,8.0,23,Mid,Differential
+Hamza,1.3,Choudhury,0.2,LEI,8,1.8,Choudhury,284,0,0,1,4,0,0,41,43.0,2.8,6.0,5.3,344,348,329,356,Midfielder,4.5,0,Budget,Differential
+Harvey,4.3,Barnes,4.4,LEI,137,19.6,Barnes,2095,6,12,8,30,0,10,377,546.2,425.3,1000.0,196.8,99,82,16,32,Midfielder,7.0,18,Mid,Differential
+Wilfred,2.2,Ndidi,0.3,LEI,41,8.2,Ndidi,1617,0,1,5,26,0,0,240,322.0,66.0,179.0,57.0,199,264,194,240,Midfielder,5.0,1,Budget,Differential
+Kiernan,2.5,Dewsbury-Hall,1.0,LEI,70,14.0,Dewsbury-Hall,2101,1,2,8,27,0,4,337,377.6,505.6,221.0,110.6,173,59,166,117,Midfielder,5.0,3,Budget,Differential
+Boubakary,1.9,Soumaré,0.6,LEI,36,8.0,Soumaré,1095,0,1,2,27,0,1,153,142.6,98.6,40.0,28.1,296,240,295,301,Midfielder,4.5,1,Budget,Differential
+Mateusz,1.8,Klich,0.1,LEE,61,12.2,Klich,2071,1,2,1,52,0,4,277,340.4,434.6,484.0,125.6,190,77,71,88,Midfielder,5.0,3,Budget,Differential
+Adam,1.7,Forshaw,0.3,LEE,38,8.4,Forshaw,1526,0,1,2,41,0,0,204,217.2,195.3,119.0,53.3,250,171,233,253,Midfielder,4.5,1,Budget,Differential
+Rodrigo,2.7,Moreno,0.4,LEE,85,14.2,Rodrigo,2263,6,2,5,37,0,11,351,430.2,558.3,602.0,159.0,143,44,50,54,Midfielder,6.0,8,Mid,Differential
+Tyler,1.5,Roberts,0.0,LEE,34,6.8,Roberts,976,1,1,1,26,0,1,105,160.4,189.8,296.0,64.9,285,174,129,227,Midfielder,5.0,2,Budget,Differential
+Daniel,2.7,James,0.0,LEE,91,15.2,James,2489,4,5,5,51,0,2,221,336.4,348.1,810.0,148.1,192,105,29,63,Midfielder,6.0,9,Mid,Differential
+Raphael,4.1,Dias Belloli,1.8,LEE,145,20.7,Raphinha,2916,11,4,5,68,0,14,457,770.8,928.6,915.0,261.6,28,10,23,12,Midfielder,7.0,15,Mid,Differential
+Jack,3.3,Harrison,1.0,LEE,117,19.5,Harrison,2638,8,1,3,68,0,12,408,614.6,591.8,687.0,188.5,69,40,45,36,Midfielder,6.0,9,Mid,Differential
+Jamie,1.4,Shackleton,0.0,LEE,19,4.2,Shackleton,704,0,1,1,14,0,0,94,126.6,29.0,62.0,21.9,304,309,281,315,Midfielder,4.5,1,Budget,Differential
+Crysencio,1.0,Summerville,0.2,LEE,6,1.3,Summerville,126,0,0,0,1,0,0,20,18.6,32.0,36.0,8.6,364,302,301,344,Midfielder,4.5,0,Budget,Differential
+Lewis,1.0,Bate,0.1,LEE,3,0.7,Bate,145,0,0,0,4,0,0,4,5.4,2.8,1.0,0.8,375,349,343,380,Midfielder,4.5,0,Budget,Differential
+Marc,0.0,Roca Junqué,0.1,LEE,0,0.0,Roca,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,492,492,489,493,Midfielder,5.0,0,Budget,Differential
+Brenden,0.0,Aaronson,0.5,LEE,0,0.0,Aaronson,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,515,515,515,515,Midfielder,5.5,0,Budget,Differential
+Darko,0.0,Gyabi,0.1,LEE,0,0.0,Gyabi,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,464,460,451,465,Midfielder,4.5,0,Budget,Differential
+Tyler,0.0,Adams,0.2,LEE,0,0.0,Adams,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,485,484,480,486,Midfielder,5.0,0,Budget,Differential
+Luis,0.0,Sinisterra Lucumí,1.0,LEE,0,0.0,Sinisterra,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,525,525,525,525,Midfielder,6.5,0,Mid,Differential
+James,1.6,Milner,0.7,LIV,38,8.4,Milner,844,0,1,4,6,0,1,196,233.2,332.8,78.0,64.5,244,109,266,228,Midfielder,4.5,1,Budget,Differential
+Jordan,3.1,Henderson,1.0,LIV,110,20.0,Henderson,2592,2,5,15,22,0,9,507,487.4,659.5,247.0,139.2,112,30,154,71,Midfielder,5.5,7,Budget,Differential
+Thiago,2.8,Alcántara do Nascimento,1.8,LIV,69,12.5,Thiago,1527,1,4,11,7,0,3,338,420.0,426.2,283.0,113.3,150,81,136,110,Midfielder,5.5,5,Budget,Differential
+Alex,2.5,Oxlade-Chamberlain,0.0,LIV,42,8.4,Chamberlain,777,2,1,3,7,0,2,148,162.8,170.0,208.0,54.0,284,186,173,248,Midfielder,5.0,3,Budget,Differential
+Fabio Henrique,3.3,Tavares,0.9,LIV,97,17.6,Fabinho,2311,5,1,15,18,0,7,438,501.8,282.2,310.0,109.4,109,129,122,120,Midfielder,5.5,6,Budget,Differential
+Mohamed,7.6,Salah,56.5,LIV,265,20.4,Salah,2758,23,14,17,22,0,29,756,1241.0,875.9,2230.0,434.8,1,13,1,1,Midfielder,13.0,37,Premium,High
+Naby,2.8,Keita,0.2,LIV,65,13.0,Keita,1169,3,2,8,6,0,4,262,302.0,243.8,258.0,80.5,209,145,149,186,Midfielder,5.0,5,Budget,Differential
+Curtis,2.7,Jones,0.0,LIV,40,8.0,Jones,849,1,1,4,9,0,3,177,156.4,179.7,171.0,50.8,290,180,200,260,Midfielder,5.0,2,Budget,Differential
+Luis,4.9,Díaz,27.8,LIV,64,8.0,Luis Díaz,957,4,3,6,4,0,6,227,289.4,288.0,578.0,115.7,212,124,53,106,Midfielder,8.0,7,Mid,High
+Harvey,2.0,Elliott,0.2,LIV,12,2.4,Elliott,344,0,0,2,2,0,0,52,43.2,133.5,102.0,27.9,343,212,248,302,Midfielder,5.0,0,Budget,Differential
+Fábio,0.0,Freitas Gouveia Carvalho,0.4,LIV,0,0.0,Carvalho,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,513,513,513,513,Midfielder,5.5,0,Budget,Differential
+Ilkay,4.6,Gündogan,0.9,MCI,124,16.5,Gündogan,1851,8,5,14,10,0,10,488,549.2,613.8,798.0,196.3,98,37,31,33,Midfielder,7.5,13,Mid,Differential
+Kevin,6.5,De Bruyne,16.6,MCI,196,16.3,De Bruyne,2196,15,8,13,22,0,33,732,1005.8,1222.0,880.0,311.0,6,3,25,6,Midfielder,12.0,23,Premium,High
+Riyad,4.8,Mahrez,6.0,MCI,135,16.9,Mahrez,1485,11,7,7,14,0,12,477,616.8,631.6,842.0,208.7,66,34,28,27,Midfielder,8.0,18,Mid,Differential
+Jack,3.3,Grealish,4.8,MCI,86,12.3,Grealish,1910,3,3,15,8,0,2,359,394.4,730.6,923.0,204.8,164,18,22,28,Midfielder,7.0,6,Mid,Differential
+Bernardo,4.4,Veiga de Carvalho e Silva,8.0,MCI,155,22.1,Bernardo,2856,8,8,16,23,0,15,663,739.4,876.1,958.0,257.9,34,12,19,14,Midfielder,7.0,16,Mid,Differential
+Phil,4.9,Foden,6.5,MCI,137,17.1,Foden,2125,9,6,13,16,0,11,483,580.8,716.4,954.0,225.5,87,20,20,24,Midfielder,8.0,15,Mid,Differential
+Rodrigo,3.8,Hernandez,2.4,MCI,127,21.2,Rodri,2884,7,2,17,22,0,9,618,758.2,541.4,444.0,174.8,29,47,82,44,Midfielder,6.0,9,Mid,Differential
+Cole,2.2,Palmer,0.2,MCI,9,2.0,Palmer,121,0,1,1,0,0,0,29,11.0,30.8,60.0,10.2,370,304,282,335,Midfielder,4.5,1,Budget,Differential
+James,1.0,McAtee,0.0,MCI,2,0.4,McAtee,18,0,0,0,0,0,0,3,0.0,0.2,0.0,0.0,451,365,439,454,Midfielder,4.5,0,Budget,Differential
+Kalvin,1.9,Phillips,0.8,MCI,39,7.8,Phillips,1594,0,1,3,25,0,1,209,270.8,151.0,99.0,52.4,223,199,250,257,Midfielder,5.0,1,Budget,Differential
+Frederico,3.3,Rodrigues de Paula Santos,1.1,MUN,93,16.9,Fred,2026,4,5,7,31,0,8,426,587.4,409.1,201.0,119.8,83,87,180,97,Midfielder,5.5,9,Budget,Differential
+Bruno,4.2,Borges Fernandes,3.6,MUN,151,15.1,Fernandes,3110,10,7,8,54,0,15,626,906.6,1291.9,910.0,311.2,11,2,24,5,Midfielder,10.0,17,Premium,Differential
+Marcus,2.5,Rashford,13.1,MUN,63,9.7,Rashford,1224,4,2,2,28,0,0,171,233.8,155.4,406.0,79.4,243,194,95,189,Midfielder,6.5,6,Mid,Differential
+Donny,2.1,van de Beek,0.9,MUN,31,5.6,Van de Beek,550,2,0,2,14,0,1,119,156.8,77.6,118.0,35.3,289,255,236,283,Midfielder,5.5,2,Budget,Differential
+Scott,2.3,McTominay,0.3,MUN,68,13.6,McTominay,2386,1,2,8,37,0,2,346,478.4,325.1,297.0,110.1,118,116,128,118,Midfielder,5.0,3,Budget,Differential
+Jadon,3.1,Sancho,12.3,MUN,91,12.1,Sancho,1894,3,4,6,28,0,9,362,363.2,596.7,549.0,150.9,180,39,59,60,Midfielder,7.5,7,Mid,Differential
+Anthony,2.8,Elanga,1.5,MUN,59,11.8,Elanga,1208,2,3,4,17,0,2,193,206.2,172.1,303.0,68.2,255,185,125,219,Midfielder,5.0,5,Budget,Differential
+Facundo,0.0,Pellistri Rebollo,0.2,MUN,0,0.0,Pellistri,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,469,465,457,470,Midfielder,4.5,0,Budget,Differential
+Christian,3.9,Eriksen,3.3,MUN,43,6.6,Eriksen,938,1,4,4,10,0,2,221,285.6,482.4,192.0,95.8,214,65,186,153,Midfielder,6.5,5,Mid,Differential
+Jonjo,2.6,Shelvey,0.2,NEW,63,12.6,Shelvey,1981,2,1,6,30,0,6,292,320.8,246.7,156.0,72.6,200,143,203,208,Midfielder,5.0,3,Budget,Differential
+Ryan,2.9,Fraser,0.3,NEW,78,14.2,Fraser,1459,2,5,5,23,0,8,263,250.2,428.1,324.0,99.2,235,80,115,142,Midfielder,5.5,7,Budget,Differential
+Jacob,1.9,Murphy,8.1,NEW,62,13.8,Murphy,1457,1,4,2,35,0,0,215,267.8,282.0,281.0,82.8,225,131,138,177,Midfielder,4.5,5,Budget,Differential
+Allan,3.3,Saint-Maximin,7.4,NEW,116,17.8,Saint-Maximin,2804,5,7,9,54,0,15,394,575.8,671.5,862.0,211.3,88,26,26,26,Midfielder,6.5,12,Mid,Differential
+Miguel,2.0,Almirón Rejala,0.5,NEW,59,11.8,Almirón,1706,1,0,6,32,0,0,228,227.2,240.9,347.0,81.8,246,150,109,181,Midfielder,5.0,1,Budget,Differential
+Sean,2.0,Longstaff,1.2,NEW,48,10.7,S.Longstaff,1458,1,1,2,29,0,1,206,246.0,116.6,93.0,45.7,237,229,253,267,Midfielder,4.5,2,Budget,Differential
+Joelinton Cássio,2.4,Apolinário de Lira,0.6,NEW,83,13.8,Joelinton,2554,4,2,7,46,0,7,323,529.6,386.6,583.0,149.5,103,92,52,61,Midfielder,6.0,6,Mid,Differential
+Joe,2.7,Willock,0.7,NEW,79,15.8,Willock,2037,2,3,6,37,0,3,248,320.4,243.2,449.0,101.3,202,146,79,136,Midfielder,5.0,5,Budget,Differential
+Bruno,3.9,Guimarães Rodriguez Moura,16.8,NEW,67,11.2,Bruno Guimarães,1031,5,1,4,13,0,11,245,407.6,190.9,323.0,92.3,158,173,117,162,Midfielder,6.0,6,Mid,High
+Jeff,2.7,Hendrick,0.0,NEW,8,1.8,Hendrick,69,1,0,0,3,0,0,25,38.8,12.1,9.0,6.0,348,333,321,352,Midfielder,4.5,1,Budget,Differential
+Harry,0.0,Arter,0.3,NFO,0,0.0,Arter,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,412,405,389,415,Midfielder,4.5,0,Budget,Differential
+Jack,0.0,Colback,3.5,NFO,0,0.0,Colback,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,416,409,394,419,Midfielder,4.5,0,Budget,Differential
+Carlos,0.0,Ribeiro Dias,0.6,NFO,0,0.0,Cafú,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,431,428,417,434,Midfielder,4.5,0,Budget,Differential
+Joe,0.0,Lolley,0.1,NFO,0,0.0,Lolley,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,483,482,478,484,Midfielder,5.0,0,Budget,Differential
+Ryan,0.0,Yates,0.1,NFO,0,0.0,Yates,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,486,485,481,487,Midfielder,5.0,0,Budget,Differential
+Xande,0.0,Nascimento da Costa Silva,0.1,NFO,0,0.0,Xande Silva,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,487,486,482,488,Midfielder,5.0,0,Budget,Differential
+Alex,0.0,Mighten,0.0,NFO,0,0.0,Mighten,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,495,495,492,496,Midfielder,5.0,0,Budget,Differential
+Braian,0.0,Ojeda Rodríguez,0.2,NFO,0,0.0,Ojeda,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,454,449,441,456,Midfielder,4.5,0,Budget,Differential
+Lewis,0.0,O'Brien,0.0,NFO,0,0.0,O'Brien,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,493,493,490,494,Midfielder,5.0,0,Budget,Differential
+Jesse,1.8,Lingard,4.7,NFO,29,4.8,Lingard,354,2,0,0,13,0,1,105,115.8,109.5,102.0,32.7,309,233,249,289,Midfielder,6.0,2,Mid,Differential
+Roméo,0.0,Lavia,0.3,SOU,0,0.0,Lavia,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,472,469,461,473,Midfielder,4.5,0,Budget,Differential
+Theo,1.3,Walcott,0.1,SOU,12,2.4,Walcott,376,0,0,0,8,0,0,28,13.6,19.2,70.0,9.7,368,320,269,337,Midfielder,5.0,0,Budget,Differential
+Oriol,2.4,Romeu Vidal,0.1,SOU,88,17.6,Romeu,2890,2,2,7,52,0,6,487,540.6,525.2,247.0,131.5,100,52,153,79,Midfielder,5.0,4,Budget,Differential
+Nathan,2.9,Redmond,0.1,SOU,79,14.4,Redmond,1827,1,6,4,33,0,6,313,333.6,516.0,310.0,116.0,194,56,121,104,Midfielder,5.5,7,Budget,Differential
+Stuart,2.3,Armstrong,0.1,SOU,57,11.4,S.Armstrong,1465,2,1,3,30,0,3,239,266.2,384.0,377.0,102.7,226,93,102,133,Midfielder,5.0,3,Budget,Differential
+Mohamed,3.0,Elyounoussi,0.1,SOU,90,16.4,Elyounoussi,2039,4,3,8,35,0,6,243,393.4,373.0,719.0,148.4,165,98,43,62,Midfielder,5.5,7,Budget,Differential
+James,4.4,Ward-Prowse,10.0,SOU,159,24.5,Ward-Prowse,3215,10,5,7,65,0,21,769,970.0,1170.6,413.0,255.5,7,4,92,15,Midfielder,6.5,15,Mid,Differential
+Nathan,2.1,Tella,0.0,SOU,29,5.8,Tella,802,0,2,1,18,0,0,81,79.4,102.2,138.0,31.7,324,237,214,293,Midfielder,5.0,2,Budget,Differential
+Will,1.2,Smallbone,0.2,SOU,5,1.1,Smallbone,132,0,0,0,5,0,0,25,7.2,15.7,8.0,3.1,372,324,325,365,Midfielder,4.5,0,Budget,Differential
+Ibrahima,1.9,Diallo,1.0,SOU,44,9.8,Diallo,1016,0,3,1,21,0,3,187,177.6,209.6,79.0,46.6,273,162,265,265,Midfielder,4.5,3,Budget,Differential
+Moussa,1.1,Djenepo,0.0,SOU,13,2.6,Djenepo,452,0,0,1,10,0,0,21,45.2,88.2,130.0,26.1,341,246,222,307,Midfielder,5.0,0,Budget,Differential
+Joe,0.0,Ayodele-Aribo,0.4,SOU,0,0.0,Aribo,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,510,511,510,511,Midfielder,5.5,0,Budget,Differential
+Son,7.4,Heung-min,26.1,TOT,258,21.5,Son,3009,23,10,18,30,0,27,819,1201.8,1051.5,1296.0,355.4,2,6,8,2,Midfielder,12.0,33,Premium,High
+Lucas,2.6,Rodrigues Moura da Silva,0.3,TOT,87,14.5,Lucas Moura,1763,2,6,8,21,0,4,324,390.8,490.0,431.0,131.1,168,63,90,80,Midfielder,6.0,8,Mid,Differential
+Pierre-Emile,3.0,Højbjerg,0.9,TOT,109,19.8,Højbjerg,3196,2,3,16,34,0,6,616,716.0,439.2,323.0,147.9,44,75,116,64,Midfielder,5.5,5,Budget,Differential
+Harry,1.7,Winks,2.1,TOT,33,7.3,Winks,904,0,2,1,15,0,1,175,168.6,198.6,20.0,38.8,278,168,311,276,Midfielder,4.5,2,Budget,Differential
+Steven,2.2,Bergwijn,0.0,TOT,55,10.0,Bergwijn,548,3,2,3,6,0,3,138,164.8,111.6,275.0,55.1,282,232,141,244,Midfielder,5.5,5,Budget,Differential
+Rodrigo,3.1,Bentancur,0.4,TOT,52,9.5,Bentancur,1360,0,4,9,12,0,4,266,322.8,244.8,122.0,68.9,197,144,228,218,Midfielder,5.5,4,Budget,Differential
+Oliver,1.9,Skipp,0.5,TOT,34,7.6,Skipp,1346,0,0,8,13,0,0,180,183.8,151.5,39.0,37.4,269,198,297,279,Midfielder,4.5,0,Budget,Differential
+Yves,2.5,Bissouma,1.6,TOT,66,13.2,Bissouma,2110,1,2,7,28,0,9,351,429.2,169.3,126.0,72.4,144,187,225,209,Midfielder,5.0,3,Budget,Differential
+Dejan,5.5,Kulusevski,7.9,TOT,99,12.4,Kulusevski,1259,5,9,9,11,0,8,343,425.2,368.7,442.0,123.3,148,99,83,91,Midfielder,8.0,14,Mid,Differential
+Harvey,0.0,White,0.3,TOT,0,0.0,White,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,458,454,446,460,Midfielder,4.5,0,Budget,Differential
+Pape Matar,0.0,Sarr,0.4,TOT,0,0.0,Sarr,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,467,463,455,468,Midfielder,4.5,0,Budget,Differential
+Alfie,0.0,Devine,0.1,TOT,0,0.0,Devine,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,471,468,460,472,Midfielder,4.5,0,Budget,Differential
+Manuel,3.1,Lanzini,0.3,WHU,92,16.7,Lanzini,1777,5,3,4,29,0,8,440,425.4,373.5,201.0,100.3,147,97,179,139,Midfielder,5.5,8,Budget,Differential
+Saïd,4.3,Benrahma,2.8,WHU,138,23.0,Benrahma,2162,8,6,9,27,0,15,441,561.0,476.4,737.0,177.6,94,66,40,42,Midfielder,6.0,14,Mid,Differential
+Jarrod,5.7,Bowen,8.6,WHU,206,24.2,Bowen,2987,12,17,8,46,0,24,586,822.2,627.2,1223.0,267.4,19,35,10,10,Midfielder,8.5,29,Mid,Differential
+Nikola,1.6,Vlasic,0.1,WHU,30,6.0,Vlasic,549,1,0,1,10,0,0,98,85.4,122.8,115.0,32.3,320,222,237,291,Midfielder,5.0,1,Budget,Differential
+Declan,2.6,Rice,6.5,WHU,95,19.0,Rice,3178,1,4,8,49,0,7,595,773.4,401.8,288.0,146.8,27,89,135,65,Midfielder,5.0,5,Budget,Differential
+Tomas,3.3,Soucek,2.0,WHU,114,20.7,Soucek,3061,5,1,6,46,0,14,485,662.0,300.1,690.0,165.6,57,119,44,50,Midfielder,5.5,6,Budget,Differential
+Pablo,3.2,Fornals Malla,2.0,WHU,117,21.3,Fornals,2795,6,4,8,38,0,5,480,574.8,719.5,532.0,182.7,89,19,61,37,Midfielder,5.5,10,Budget,Differential
+Flynn,0.0,Downes,0.4,WHU,0,0.0,Downes,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,443,440,431,446,Midfielder,4.5,0,Budget,Differential
+Leander,2.5,Dendoncker,0.2,WOL,76,15.2,Dendoncker,1945,2,3,5,29,0,5,308,348.6,180.0,279.0,80.9,187,179,140,183,Midfielder,5.0,5,Budget,Differential
+Rúben,2.9,da Silva Neves,1.4,WOL,95,17.3,Neves,2659,4,2,9,34,0,7,509,629.6,436.7,237.0,130.4,63,76,157,83,Midfielder,5.5,6,Budget,Differential
+Hwang,2.7,Hee-chan,0.4,WOL,81,13.5,Hwang,1811,5,1,7,22,0,11,288,322.2,268.3,481.0,106.7,198,135,72,126,Midfielder,6.0,6,Mid,Differential
+Daniel,2.7,Castelo Podence,0.4,WOL,70,12.7,Podence,1475,2,3,9,12,0,2,257,328.6,493.0,459.0,128.2,195,61,77,85,Midfielder,5.5,5,Budget,Differential
+Luke,1.8,Cundle,0.5,WOL,7,1.6,Cundle,179,0,0,1,1,0,0,32,17.0,32.0,2.0,5.1,366,301,339,357,Midfielder,4.5,0,Budget,Differential
+Pedro,1.7,Lomba Neto,19.9,WOL,22,4.0,Neto,459,1,1,0,14,0,0,88,103.4,205.1,219.0,52.6,310,164,168,255,Midfielder,5.5,2,Budget,High
+Francisco Jorge,2.5,Tomás Oliveira,0.0,WOL,20,4.0,Chiquinho,203,0,3,0,5,0,2,67,99.4,83.4,118.0,30.1,312,251,235,297,Midfielder,5.0,3,Budget,Differential
+Adama,2.2,Traoré Diarra,0.6,WOL,44,8.0,Adama,1069,1,1,5,10,0,0,168,192.0,271.1,300.0,76.6,264,134,126,195,Midfielder,5.5,2,Budget,Differential
+Morgan,0.5,Gibbs-White,0.2,WOL,1,0.2,Gibbs-White,7,0,0,0,0,0,0,0,0.0,0.7,24.0,2.1,511,362,308,372,Midfielder,5.5,0,Budget,Differential
+João Filipe Iria,2.7,Santos Moutinho,2.1,WOL,96,19.2,Moutinho,2970,2,1,11,40,0,8,511,527.8,660.9,144.0,133.2,104,27,209,73,Midfielder,5.0,3,Budget,Differential
+Eddie,2.6,Nketiah,1.1,ARS,55,7.9,Nketiah,823,5,1,0,18,0,6,194,249.2,165.2,408.0,82.1,236,189,94,180,Forward,7.0,6,Mid,Differential
+Gabriel,4.3,Fernando de Jesus,64.1,ARS,120,15.0,Jesus,1871,8,8,11,15,0,16,488,567.4,530.9,1126.0,222.3,92,50,12,25,Forward,8.0,16,Mid,High
+Danny,3.5,Ings,1.7,AVL,106,15.1,Ings,1891,7,6,10,26,0,12,344,448.6,210.9,749.0,140.3,137,161,38,70,Forward,7.0,13,Mid,Differential
+Ollie,3.7,Watkins,3.8,AVL,131,17.5,Watkins,2950,11,3,10,48,0,17,441,613.8,469.6,1345.0,242.9,70,67,6,20,Forward,7.5,14,Mid,Differential
+Keinan,1.0,Davis,0.2,AVL,1,0.2,Davis,11,0,0,0,0,0,0,2,0.4,1.0,0.0,0.1,383,358,511,386,Forward,5.5,0,Budget,Differential
+Cameron,1.0,Archer,3.7,AVL,3,0.7,Archer,24,0,0,0,0,0,0,3,0.0,0.8,18.0,1.6,453,359,314,377,Forward,4.5,0,Budget,Differential
+Kieffer,0.0,Moore,0.3,BOU,0,0.0,Moore,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,507,508,507,508,Forward,5.5,0,Budget,Differential
+Dominic,0.0,Solanke,1.7,BOU,0,0.0,Solanke,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,520,520,520,520,Forward,6.0,0,Mid,Differential
+Ivan,4.2,Toney,5.4,BRE,139,19.9,Toney,2908,12,5,8,47,0,19,502,717.8,573.6,1320.0,260.7,43,43,7,13,Forward,7.0,17,Mid,Differential
+Bryan,3.4,Mbeumo,2.8,BRE,119,19.8,Mbeumo,2905,4,7,9,47,0,6,310,459.8,520.6,967.0,193.7,132,55,18,34,Forward,6.0,11,Mid,Differential
+Marcus,1.6,Forss,1.8,BRE,11,2.4,Forss,203,0,1,0,4,0,0,35,20.8,12.5,55.0,8.7,360,331,286,343,Forward,4.5,1,Budget,Differential
+Danny,3.6,Welbeck,0.4,BHA,89,13.7,Welbeck,1469,6,4,5,16,0,13,247,361.8,228.9,598.0,117.8,181,155,51,102,Forward,6.5,10,Mid,Differential
+Neal,3.1,Maupay,1.0,BHA,98,15.1,Maupay,2269,8,3,7,31,0,11,295,370.4,366.0,721.0,143.5,176,101,41,66,Forward,6.5,11,Mid,Differential
+Deniz,0.0,Undav,2.2,BHA,0,0.0,Undav,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,517,517,517,517,Forward,5.5,0,Budget,Differential
+Julio,0.0,Enciso,0.5,BHA,0,0.0,Enciso,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,499,499,496,500,Forward,5.0,0,Budget,Differential
+Timo,3.0,Werner,1.0,CHE,62,7.8,Werner,1278,4,2,5,17,0,5,175,207.6,153.1,773.0,112.7,254,195,35,111,Forward,8.0,6,Mid,Differential
+Kai,3.9,Havertz,4.7,CHE,112,14.0,Havertz,1802,8,4,10,18,0,5,271,461.2,329.5,939.0,171.9,128,111,21,47,Forward,8.0,12,Mid,Differential
+Armando,2.9,Broja,2.2,CHE,92,16.7,Broja,1969,6,2,5,37,0,11,234,280.2,159.2,720.0,115.6,217,193,42,107,Forward,5.5,8,Budget,Differential
+Christian,2.3,Benteke,0.8,CRY,58,10.5,Benteke,1132,4,1,4,20,0,6,173,250.2,176.7,523.0,94.3,234,181,63,154,Forward,5.5,5,Budget,Differential
+Odsonne,3.1,Edouard,3.5,CRY,87,15.8,Edouard,1554,6,4,9,19,0,9,280,389.8,265.7,618.0,127.6,170,136,49,87,Forward,5.5,10,Budget,Differential
+Jean-Philippe,2.8,Mateta,1.1,CRY,61,11.1,Mateta,1138,5,1,5,14,0,6,182,253.6,112.8,568.0,93.4,230,231,56,156,Forward,5.5,6,Budget,Differential
+Luke,0.0,Plange,1.9,CRY,0,0.0,Plange,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,460,456,448,462,Forward,4.5,0,Budget,Differential
+Salomón,1.5,Rondón,0.2,EVE,30,6.0,Rondón,779,1,1,2,16,0,2,73,94.2,108.9,339.0,53.8,314,234,110,250,Forward,5.0,2,Budget,Differential
+Dominic,3.8,Calvert-Lewin,1.9,EVE,64,8.0,Calvert-Lewin,1281,5,2,3,31,0,10,207,255.8,144.7,448.0,84.7,228,201,80,175,Forward,8.0,7,Mid,Differential
+Aleksandar,0.0,Mitrović,7.9,FUL,0,0.0,Mitrović,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,524,524,524,524,Forward,6.5,0,Mid,Differential
+Rodrigo,0.0,Muniz Carvalho,0.1,FUL,0,0.0,Muniz,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,512,512,512,512,Forward,5.5,0,Budget,Differential
+Jay,0.0,Stansfield,1.2,FUL,0,0.0,Stansfield,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,470,467,459,471,Forward,4.5,0,Budget,Differential
+Jamie,5.3,Vardy,4.8,LEI,133,14.0,Vardy,1801,15,3,4,27,0,24,480,599.8,229.5,775.0,159.6,75,154,34,52,Forward,9.5,18,Premium,Differential
+Kelechi,3.1,Iheanacho,0.9,LEI,80,12.3,Iheanacho,1253,4,6,1,25,0,10,246,292.0,242.7,390.0,92.2,211,147,100,163,Forward,6.5,10,Mid,Differential
+Patson,3.0,Daka,1.5,LEI,70,11.7,Daka,1152,5,3,3,20,0,8,216,287.8,166.2,460.0,90.9,213,188,75,165,Forward,6.0,8,Mid,Differential
+Patrick,3.1,Bamford,0.9,LEE,28,3.7,Bamford,557,2,2,0,14,0,2,90,125.8,69.0,289.0,47.9,305,261,133,264,Forward,7.5,4,Mid,Differential
+Sam,2.1,Greenwood,25.8,LEE,15,3.3,Greenwood,231,0,2,0,5,0,0,54,51.6,49.4,39.0,13.9,337,283,299,330,Forward,4.5,2,Budget,High
+Joe,2.1,Gelhardt,0.9,LEE,43,7.8,Gelhardt,733,2,4,1,25,0,3,129,148.0,117.0,412.0,67.2,293,228,93,221,Forward,5.5,6,Budget,Differential
+Roberto,3.1,Firmino,1.3,LIV,62,7.8,Firmino,980,5,4,5,9,0,5,270,337.2,248.4,497.0,108.3,191,141,67,124,Forward,8.0,9,Mid,Differential
+Diogo,5.0,Teixeira da Silva,2.4,LIV,175,19.4,Diogo Jota,2357,15,7,14,19,0,8,483,736.8,538.2,1379.0,264.5,35,49,5,11,Forward,9.0,22,Premium,Differential
+Darwin,0.0,Núñez Ribeiro,15.6,LIV,0,0.0,Darwin,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,527,527,527,527,Forward,9.0,0,Premium,High
+Erling,0.0,Håland,58.4,MCI,0,0.0,Haaland,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,528,528,528,528,Forward,11.5,0,Premium,High
+Julián,0.0,Álvarez,1.2,MCI,0,0.0,Álvarez,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,526,526,526,526,Forward,6.5,0,Mid,Differential
+Liam,1.0,Delap,0.7,MCI,1,0.2,Delap,8,0,0,0,0,0,0,2,0.0,0.0,2.0,0.1,463,459,342,384,Forward,4.5,0,Budget,Differential
+Cristiano Ronaldo,5.3,dos Santos Aveiro,4.2,MUN,159,15.1,Ronaldo,2454,18,3,8,41,0,29,608,800.4,421.9,1535.0,274.6,21,83,3,9,Forward,10.5,21,Premium,Differential
+Anthony,1.8,Martial,7.0,MUN,14,2.0,Martial,207,1,0,0,3,0,2,40,40.4,17.5,91.0,14.6,346,323,255,328,Forward,7.0,1,Mid,Differential
+Chris,2.7,Wood,1.7,NEW,91,15.2,Wood,2694,5,0,6,41,0,8,228,274.8,265.4,784.0,130.5,221,137,33,82,Forward,6.0,5,Mid,Differential
+Callum,4.2,Wilson,3.0,NEW,75,10.0,Wilson,1386,8,0,3,32,0,14,220,319.8,127.3,494.0,92.4,203,219,68,161,Forward,7.5,8,Mid,Differential
+Dwight,0.9,Gayle,1.4,NEW,7,1.6,Gayle,34,0,0,0,0,0,0,22,4.2,24.2,13.0,4.1,377,312,318,359,Forward,4.5,0,Budget,Differential
+Lyle,0.0,Taylor,11.9,NFO,0,0.0,Taylor,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,415,408,392,418,Forward,4.5,0,Budget,Differential
+Sam,0.0,Surridge,1.6,NFO,0,0.0,Surridge,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,489,488,484,490,Forward,5.0,0,Budget,Differential
+Brennan,0.0,Johnson,3.0,NFO,0,0.0,Johnson,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,522,522,522,522,Forward,6.0,0,Mid,Differential
+Taiwo,0.0,Awoniyi,1.6,NFO,0,0.0,Awoniyi,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,521,521,521,521,Forward,6.0,0,Mid,Differential
+Adam,2.5,Armstrong,0.8,SOU,57,10.4,A.Armstrong,1409,2,3,4,31,0,3,150,179.2,180.2,575.0,92.7,271,178,55,158,Forward,5.5,5,Budget,Differential
+Che,3.4,Adams,0.8,SOU,103,15.8,Adams,2034,7,4,5,40,0,11,333,425.8,337.7,804.0,156.8,146,106,30,56,Forward,6.5,11,Mid,Differential
+Sékou,0.0,Mara,0.0,SOU,0,0.0,Mara,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,518,518,518,518,Forward,5.5,0,Budget,Differential
+Harry,5.2,Kane,22.3,TOT,192,16.7,Kane,3231,17,11,14,40,0,23,684,1036.4,674.0,1798.0,350.4,5,25,2,3,Forward,11.5,28,Premium,High
+Dane,1.0,Scarlett,0.7,TOT,1,0.2,Scarlett,3,0,0,0,0,0,0,4,1.0,0.0,0.0,0.1,382,466,458,385,Forward,4.5,0,Budget,Differential
+Troy,0.0,Parrott,1.0,TOT,0,0.0,Parrott,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,456,452,444,458,Forward,4.5,0,Budget,Differential
+Richarlison,4.2,de Andrade,0.4,TOT,125,14.7,Richarlison,2522,10,6,7,46,0,19,413,651.4,383.7,1010.0,203.9,59,94,14,29,Forward,8.5,16,Mid,Differential
+Michail,3.9,Antonio,4.4,WHU,140,18.7,Antonio,2975,10,10,7,43,0,14,441,649.2,615.6,1274.0,252.7,60,36,9,17,Forward,7.5,20,Mid,Differential
+Raúl,3.0,Jiménez,2.4,WOL,101,14.4,Jiménez,2630,6,5,11,32,0,11,266,470.8,506.7,746.0,171.2,122,58,39,48,Forward,7.0,11,Mid,Differential
+Fabio,1.4,Silva,0.3,WOL,30,5.5,Fabio Silva,562,0,1,0,7,0,0,43,21.0,48.3,262.0,32.0,359,284,148,292,Forward,5.5,1,Budget,Differential
