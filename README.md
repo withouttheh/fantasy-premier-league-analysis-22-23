@@ -49,7 +49,7 @@ High performance will be measured mainly in points per game, total points, value
 
 Ranking the best attacking teams by goals + assists and the best defensive teams by cleansheets:
 
-![](./images/teams-performances.PNG)
+![](./images/teams-performances.png)
 
 The bar charts provide some useful insights on which teams performed well over the 2022/2023. A high performing team is most likely to include high performing players by virtue of goal contributions and defensive contributions which are the cornerstone for picking players. These are the teams where will choose our base squad from which will have our long-term and premium players.
 
@@ -57,7 +57,7 @@ The bar charts provide some useful insights on which teams performed well over t
 - **Defence**: Man City, Liverpool, Spurs, Chelsea and Arsenal were the only clubs to provide more than 125 total cleansheets.
 
 Season value vs total points:  
-![](./images/teams-value.PNG)
+![](./images/teams-value.png)
 
 The uppermost right quandrant in each scatter plot contains the best value & high-performing teams in each statistical category. These are the teams where we would like to choose our base squad from, which will have our long-term and premium players. We have already identified Liverpool, Chelsea, Man City, Spurs, Arsenal and West Ham as teams that fit this criteria which is why they will be ignored in this section. 
 
@@ -67,7 +67,7 @@ The uppermost left quadrant is the quadrant of interest as this is where the dif
 
 
 Distribution of points by position:  
-![](./images/positions-performances.PNG)
+![](./images/positions-performances.png)
 
 The key takeways from this plot is the heights of the bars. The more times a position's total points is accounted for within a certain range of values, the greater the height of bar.
 
@@ -77,7 +77,7 @@ The key takeways from this plot is the heights of the bars. The more times a pos
 - The outliers in terms of season points totals (> 250 pts) were  Midfielders, which again shows the great points potential that the midfield had last season.
 
 This plot allows us to find undervalued players at a glance:
-![](./images/player-performances.PNG)
+![](./images/player-performances.png)
 
 ## Conclusion:
 
